@@ -18,6 +18,7 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 # Recent News
 * June 15, 2022. A first-author paper titled “Non-IID Distributed Learning with Optimal Mixture Weights” is accepted at ECML 2022.
 * April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022.
+
 <!-- * **Jian Li**, Bojian Wei, Yong Liu, Weiping Wang. "Non-IID Distributed Learning with Optimal Mixture Weights". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
@@ -34,7 +35,7 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * Special Research Assistant Project of CAS.
 * National Natural Science Foundation of China (No. 62106257).
 * PRICAI 2021 best student paper award.
-* Outstanding Graduates of Beijing & UCAS. 2021.
+* Outstanding Graduates of Beijing & UCAS. 2020.
 * National Scholarship for Doctoral students. 2018 & 2019.
 
 <!--
