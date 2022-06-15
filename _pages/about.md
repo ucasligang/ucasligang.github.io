@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Researcher in the [Institute of Information Engineering (IIE)](https://iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://ucas.ac.cn/). <br>
+I am currently a Researcher in the Institute of Information Engineering (IIE), Chinese Academy of Sciences (CAS). <br>
 Previously, I received my Ph.D. degree from IIE, CAS under the supervision of Associate Researcher [Yong Liu](https://liuyonggsai.github.io/) and Researcher Weiping Wang. 
-I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
+I received my Bachelor's degree in Northeastern University in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
 # Research
 My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
