@@ -1,26 +1,43 @@
 ---
 permalink: /
-title: "About me ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))"
+title: "About me" # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. student in the [Institute of Information Engineering](https://iie.ac.cn/), [Chinese Academy of Sciences](https://ucas.ac.cn/), under the supervision of Associate Researcher. [Yong Liu](https://iie-liuyong.github.io/) and Researcher Weiping Wang. <br>
+I am currently a Researcher in the [Institute of Information Engineering (IIE)](https://iie.ac.cn/), [Chinese Academy of Sciences (CAS)](https://ucas.ac.cn/). <br>
+Previously, I received my Ph.D. degree from IIE, CAS under the supervision of Associate Researcher [Yong Liu](https://liuyonggsai.github.io/) and Researcher Weiping Wang. 
 I received my Bachelor's degree in [Northeastern University](http://english.neu.edu.cn/) in Shenyang, China, where I am a member of 2011 International class (English) in Software College. 
 
 # Research
 My research interests mainly lie in **efficient large scale machine learning with theoretical guarantee**, but also include kernel methods, semi-supervised learning (SSL) and interpretability of neural networks. <br>
 Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
-# Publications
+# Recent News
+* June 15, 2022. A first-author paper titled “Non-IID Distributed Learning with Optimal Mixture Weights” is accepted at ECML 2022.
+* April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022.
+<!-- * **Jian Li**, Bojian Wei, Yong Liu, Weiping Wang. "Non-IID Distributed Learning with Optimal Mixture Weights". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
-* **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
+* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
+* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
+* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
+* **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)). -->
+<!-- * **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Multi-Class Learning using Unlabeled Samples: Theory and Algorithm". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 * **Jian Li**, Yong Liu, Rong Yin, Weiping Wang. "Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis". Published in the 28th International Joint Conference on Artificial Intelligence ([IJCAI 2019](https://ijcai19.org/)).
 * **Jian Li**, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. "Multi-Class Learning: From Theory to Algorithm". Published in Advances in Neural Information Processing Systems 31 ([NeurIPS 2018](https://nips.cc/Conferences/2018)).
-* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)).
+* **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)). -->
 
+#  Projects and Awards
+* Excellent Talents Program of Institute of Information Engineering, CAS.
+* Special Research Assistant Project of CAS.
+* National Natural Science Foundation of China (No. 62106257).
+* PRICAI 2021 best student paper award.
+* Outstanding Graduates of Beijing & UCAS. 2021.
+* National Scholarship for Doctoral students. 2018 & 2019.
+
+<!--
 # Honors and Awards
 * ZhuLiYueHua Scholarship for Excellent Doctoral Student (Top 1\%, RMB &yen; 5,000). <br> Chinese Academy of Sciences (CAS). 2019.
 * [The UCAS Joint PhD Training Program (2&permil;, USD \$22,800)](https://lijian.ac.cn/files/awards/2019_ucas_joint_phd_training_program.pdf). <br>University of Chinese Academy of Sciences (UCAS). 2019.
@@ -33,6 +50,6 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * [Merit Student](https://lijian.ac.cn/files/awards/2019_merit_student.pdf), University of Chinese Academy of Sciences (UCAS). 2019.
 * [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2017_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2017.
 * [Laboratory Excellent Student Scholarship](https://lijian.ac.cn/files/awards/2018_laboratory_excellent_student.pdf). <br> Institute of Information Engineering, CAS. 2018.
-
+-->
 <!---Activity and Service--->
 <!---Experience--->

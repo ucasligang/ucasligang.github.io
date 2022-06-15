@@ -3,15 +3,50 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+## 2022
+* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+<b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang.
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. (ECML-PKDD 2022)</i>.<br>
+
+* <b>Optimal Rates for Distributed Learning with Random Features.<br>
+<b>Jian Li</b>, Yong Liu.
+<i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022)</i>.<br>
+[[PDF]](https://arxiv.org/pdf/1906.03155.pdf)
+[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
+
+* <b>Ridgeless Regression with Random Features.<br>
+<b>Jian Li</b>, Yong Liu, Yingying Zhang.
+<i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022)</i>.<br>
+[[PDF]](https://arxiv.org/pdf/2205.00477.pdf)
+[[Code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features)
+
+
+## 2021
+* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
+<i>Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)</i>.<br>
+[[PDF]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
+[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)
+* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <i>2021 IEEE International Conference on Data Mining (ICDM 2021), 1559-1564</i>.<br>
+[[PDF]](https://lijian.ac.cn/files/2021/conference_101719.pdf)
+
 ## 2020
+
+* <b>Neural Architecture Optimization with Graph VAE</b>. Preprint.<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2006.10310, 2020</i>.<br>
+[[PDF]](https://arxiv.org/pdf/2006.10310.pdf)
+[[Code]](https://github.com/superlj666/NGAE)
+* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744, 2020</i>.<br>
+[[PDF]](https://arxiv.org/pdf/2002.12744.pdf)
+[[Code]](https://github.com/superlj666/CSKN)
 * <b>Automated Spectral Kernel Learning</b>. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**)</i>.<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**),  4618-4625</i>.<br>
 [[PDF]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
 [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
-* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744 , 2020</i>.<br>
-[[PDF]](https://arxiv.org/pdf/2002.12744)
 
 
 ## 2019
