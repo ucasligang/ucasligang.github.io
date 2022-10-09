@@ -4,23 +4,23 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
-* <b>Non-IID Federated Learning with Sharper Risk Bound.<br>
+* <b>Non-IID Federated Learning with Sharper Risk Bound</b>.<br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
 <i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.<br>
 [[PDF]](https://doi.org/10.1109/TNNLS.2022.3213187)
 
-* <b>Convolutional Spectral Kernel Learning with Generalization Guarantees.<br>
+* <b>Convolutional Spectral Kernel Learning with Generalization Guarantees</b>.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang.
 <i>Artificial Intelligence (AI)</i>.<br>
 [[PDF]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/)
 
-* <b>Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.<br>
+* <b>Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth</b>.<br>
 Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang.
 <i>The Conference on Information and Knowledge Management (CIKM 2022)</i>.<br>
 [[PDF]](https://doi.org/10.1145/3511808.3557451)
 
-* <b>Non-IID Distributed Learning with Optimal Mixture Weights.<br>
+* <b>Non-IID Distributed Learning with Optimal Mixture Weights</b>.<br>
 <b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. (ECML-PKDD 2022)</i>.<br>
 [[PDF]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf)
@@ -31,7 +31,7 @@ Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang.
 [[PDF]](https://arxiv.org/pdf/1906.03155.pdf)
 [[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
-* <b>Ridgeless Regression with Random Features.<br>
+* <b>Ridgeless Regression with Random Features</b>.<br>
 <b>Jian Li</b>, Yong Liu, Yingying Zhang.
 <i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022)</i>.<br>
 [[PDF]](https://arxiv.org/pdf/2205.00477.pdf)
@@ -39,13 +39,13 @@ Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang.
 
 
 ## 2021
-* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+* <b>Operation-level Progressive Differentiable Architecture Search</b>.<br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
 <i>Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)</i>.<br>
 [[PDF]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
 [[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
 [[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)
-* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+* <b>Operation-level Progressive Differentiable Architecture Search</b>.<br>
 Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <i>2021 IEEE International Conference on Data Mining (ICDM 2021), 1559-1564</i>.<br>
 [[PDF]](https://lijian.ac.cn/files/2021/conference_101719.pdf)
 
