@@ -4,15 +4,32 @@ permalink: /publications/
 author_profile: true
 ---
 ## 2022
-* <b>Operation-level Progressive Differentiable Architecture Search.<br>
+* <b>Non-IID Federated Learning with Sharper Risk Bound.<br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
+<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS)</i>.<br>
+[[PDF]](https://doi.org/10.1109/TNNLS.2022.3213187)
+
+* <b>Convolutional Spectral Kernel Learning with Generalization Guarantees.<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang.
+<i>Artificial Intelligence (AI)</i>.<br>
+[[PDF]](https://doi.org/10.1016/j.artint.2022.103803)
+[[Code]](https://github.com/superlj666/CSKN/)
+
+* <b>Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.<br>
+Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang.
+<i>The Conference on Information and Knowledge Management (CIKM 2022)</i>.<br>
+[[PDF]](https://doi.org/10.1145/3511808.3557451)
+
+* <b>Non-IID Distributed Learning with Optimal Mixture Weights.<br>
 <b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang.
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. (ECML-PKDD 2022)</i>.<br>
+[[PDF]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf)
 
-* <b>Optimal Rates for Distributed Learning with Random Features.<br>
+<!-- * <b>Optimal Rates for Distributed Learning with Random Features.<br>
 <b>Jian Li</b>, Yong Liu.
 <i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022)</i>.<br>
 [[PDF]](https://arxiv.org/pdf/1906.03155.pdf)
-[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
+[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
 
 * <b>Ridgeless Regression with Random Features.<br>
 <b>Jian Li</b>, Yong Liu, Yingying Zhang.

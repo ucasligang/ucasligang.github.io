@@ -16,8 +16,11 @@ My research interests mainly lie in **efficient large scale machine learning wit
 Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
 # Recent News
-* June 15, 2022. A first-author paper titled “Non-IID Distributed Learning with Optimal Mixture Weights” is accepted at ECML 2022.
-* April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022.
+* Oct 4, 2022. A corresponding-author paper titled "Non-IID Federated Learning with Sharper Risk Bound" is accepted at [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems) (TNNLS, CCF-B Journal / JCR Q1), available at [here](https://doi.org/10.1109/TNNLS.2022.3213187). 
+* Sep 30, 2022. A first-author paper titled "Convolutional Spectral Kernel Learning with Generalization Guarantees" is accepted at [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) (AI, CCF-A Journal / JCR Q1), available at [here](https://doi.org/10.1016/j.artint.2022.103803).
+* Aug 1, 2022. A paper titled "Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth" is accepted at CIKM 2022 (CCF-B conference).
+* Jun 15, 2022. A first-author paper titled “Non-IID Distributed Learning with Optimal Mixture Weights” is accepted at ECML 2022 (CCF-B conference).
+<!-- * April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022. -->
 
 <!-- * **Jian Li**, Bojian Wei, Yong Liu, Weiping Wang. "Non-IID Distributed Learning with Optimal Mixture Weights". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
