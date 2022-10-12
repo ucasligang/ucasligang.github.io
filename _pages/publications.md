@@ -12,6 +12,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
 * <b>Convolutional Spectral Kernel Learning with Generalization Guarantees</b>.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang.
 <i>Artificial Intelligence (AI)</i>.<br>
+[[Free Access before Dec 1, 2022]](https://authors.elsevier.com/c/1fvBD-c5XwqS)
 [[PDF]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/)
 
