@@ -16,11 +16,16 @@ My research interests mainly lie in **efficient large scale machine learning wit
 Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
 # Recent News
-* Oct 4, 2022. A corresponding-author paper titled "Non-IID Federated Learning with Sharper Risk Bound" is accepted at [IEEE Transactions on Neural Networks and Learning Systems](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems/ieee-transactions-on-neural-networks-and-learning-systems) (TNNLS, CCF-B Journal / JCR Q1), available at [here](https://doi.org/10.1109/TNNLS.2022.3213187). 
-* Sep 30, 2022. A first-author paper titled "Convolutional Spectral Kernel Learning with Generalization Guarantees" is accepted at [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence) (AI, CCF-A Journal / JCR Q1), available at [here](https://doi.org/10.1016/j.artint.2022.103803) / [free access before 12/01/2022](https://authors.elsevier.com/c/1fvBD-c5XwqS).
-* Aug 1, 2022. A paper titled "Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth" is accepted at CIKM 2022 (CCF-B conference).
+* Apr 27, 2023. A first-author paper titled "Optimal Convergence Rates for Distributed Nystrom Approximation" is accepted at Journal of Machine Learning Research (JMLR, CCF-A journal, top tier).
+* Apr 25, 2023. A first-author paper titled "Optimal Convergence Rates for Agnostic Nystroem Kernel Learning" is accepted at ICML 2023 (CCF-A conference, top tier).
+* Apr 20, 2023. A first-author paper titled "Towards Sharp Analysis for Distributed Learning with Random Features" is accepted at IJCAI 2023 (CCF-A conference).
+* Jan 21, 2023. A first-author paper titled "Semi-supervised vector-valued learning: Improved bounds and algorithms" is accepted at [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323000572) (PR, CCF-B Journal / JCR Q1).
+* Oct 4, 2022. A corresponding-author paper titled "Non-IID Federated Learning with Sharper Risk Bound" is accepted at [IEEE Transactions on Neural Networks and Learning Systems](https://doi.org/10.1109/TNNLS.2022.3213187) (TNNLS, CCF-B Journal / JCR Q1). 
+* Sep 30, 2022. A first-author paper titled "Convolutional Spectral Kernel Learning with Generalization Guarantees" is accepted at [Artificial Intelligence](https://doi.org/10.1016/j.artint.2022.103803) (AI, CCF-A Journal / JCR Q1).
+
+<!-- * Aug 1, 2022. A paper titled "Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth" is accepted at CIKM 2022 (CCF-B conference).
 * Jun 15, 2022. A first-author paper titled “Non-IID Distributed Learning with Optimal Mixture Weights” is accepted at ECML 2022 (CCF-B conference).
-<!-- * April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022. -->
+* April 21, 2022. Two first-author papers titled “Optimal Rates for Distributed Learning with Random Features” and “Ridgeless Regression with Random Features” are accepted at IJCAI 2022. -->
 
 <!-- * **Jian Li**, Bojian Wei, Yong Liu, Weiping Wang. "Non-IID Distributed Learning with Optimal Mixture Weights". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
 * **Jian Li**, Yong Liu, Weiping Wang. "Automated Spectral Kernel Learning". Accepted to the 34th AAAI Conference on Artificial Intelligence ([AAAI 2020](https://aaai.org/Conferences/AAAI-20/)).
@@ -34,9 +39,10 @@ Indeed, my works focus on **generalization** analysis of those areas and buildin
 * **Jian Li**, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. "Efficient Kernel Selection via Spectral Analysis". Published in Proceedings of the 26th International Joint Conference on Artificial Intelligence ([IJCAI 2017](https://www.ijcai-17.org/)). -->
 
 #  Projects and Awards
+* National Natural Science Foundation of China (No. 62106257).
+* National Key R&D Program of China (2022YFB3105302).
 * Excellent Talents Program of Institute of Information Engineering, CAS.
 * Special Research Assistant Project of CAS.
-* National Natural Science Foundation of China (No. 62106257).
 * PRICAI 2021 best student paper award.
 * Outstanding Graduates of Beijing & UCAS. 2020.
 * National Scholarship for Doctoral students. 2018 & 2019.
