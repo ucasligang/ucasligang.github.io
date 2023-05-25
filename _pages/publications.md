@@ -13,6 +13,7 @@ author_profile: true
 * <b>Optimal Convergence Rates for Agnostic Nystroem Kernel Learning</b>.<br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang.
 <i>International Conference on Machine Learning (ICML). <b>CCF-A conference, top-tier</b></i>.<br>
+[[PDF]](https://lijian.ac.cn/files/2023/2023_ICML_Nystroem.pdf)
 
 * <b>Towards Sharp Analysis for Distributed Learning with Random Features</b>.<br>
 <b>Jian Li</b>, Yong Liu.
