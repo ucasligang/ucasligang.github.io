@@ -16,7 +16,7 @@ My research interests mainly lie in **efficient large scale machine learning wit
 Indeed, my works focus on **generalization** analysis of those areas and building effective and scalable **optimization** tools for them, to channel theory and algorithms into applications.
 
 # Recent News
-* Apr 27, 2023. A first-author paper titled "Optimal Convergence Rates for Distributed Nystrom Approximation" is accepted at Journal of Machine Learning Research (JMLR, CCF-A journal, top tier). Available at [JMLR]((https://jmlr.org/papers/v24/21-1049.html)).
+* Apr 27, 2023. A first-author paper titled "Optimal Convergence Rates for Distributed Nystrom Approximation" is accepted at Journal of Machine Learning Research (JMLR, CCF-A journal, top tier). Available at [JMLR](https://jmlr.org/papers/v24/21-1049.html).
 * Apr 25, 2023. A first-author paper titled "Optimal Convergence Rates for Agnostic Nystroem Kernel Learning" is accepted at ICML 2023 (CCF-A conference, top tier).
 * Apr 20, 2023. A first-author paper titled "Towards Sharp Analysis for Distributed Learning with Random Features" is accepted at IJCAI 2023 (CCF-A conference).
 * Jan 21, 2023. A first-author paper titled "Semi-supervised vector-valued learning: Improved bounds and algorithms" is accepted at [Pattern Recognition](https://www.sciencedirect.com/science/article/pii/S0031320323000572) (PR, CCF-B Journal / JCR Q1).
