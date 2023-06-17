@@ -19,7 +19,7 @@ My research interests include, but are not limited to:
 
 With the goal of bridging the gap between theory, algorithms and practical applications, I am trying to develop **scalable algorithms** based on **theoretical analysis** for large-scale machine learning methods.
 
-# Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Github](https://github.com/superlj666)] 
+# Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ)] 
 <i>* corresponding author</i>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
