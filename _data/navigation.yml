@@ -3,6 +3,9 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Chinese"
+   url: /chinese/  
+
   # - title: "Awards & Honors"
   #   url: /awards/
 
@@ -18,13 +21,8 @@ main:
   #- title: "My Lab"
   #  url: /lab/
   
-  # - title: "CV&Contact"
-  #   url: /cv&contact/  
+  - title: "CV&Contact"
+    url: /cv&contact/  
 
   # - title: "Blogs"
   #   url: /year-archive/
-  
-  - title: "Chinese"
-   url: /chinese/  
-  
-  
