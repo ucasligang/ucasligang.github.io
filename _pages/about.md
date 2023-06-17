@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Overview" # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
+title: "Overview " # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
 excerpt: ""
 author_profile: true
 redirect_from: 
