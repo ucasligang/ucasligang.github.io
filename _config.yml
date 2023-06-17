@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jian Li"
 title_separator          : "-"
 name                     : &name "Jian Li"
-description              : &description "Researcher in Machine Learning. Institute of Information Engineering, CAS"
+description              : &description "Tenure-track Senior Researcher at Institute of Information Engineering, CAS"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "superlj666/superlj666.github.io"
@@ -77,13 +77,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li"
+  name             : "Jian Li (李健)"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "Researcher in Machine Learning. Institute of Information Engineering, CAS"
+  bio              : "Tenure-track Senior Researcher at Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ"
-  email            : "me@lijian.ac.cn"
+  email            : "superlj666@gmail.com"
   uri              : 
   bitbucket        :
   codepen          :
