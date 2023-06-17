@@ -1,11 +1,12 @@
 ---
-title: "Chinese Bio"
+title: ""
 permalink: /chinese/
 author_profile: true
 ---
 
-**预聘研究员 硕士生导师 中国科学院信息工程研究所**  
-**电子邮箱：lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com**
+**预聘研究员 硕士生导师 中国科学院信息工程研究所** 
+**邮箱：lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com**
+**地址：北京市海淀区树村路19号，100085**
 
 # 研究方向
 本人研究方向为大规模机器学习，针对传统机器学习模型、大语言模型设计进行泛化理论分析并设计高效、可扩展的算法。主要研究内容包括：
