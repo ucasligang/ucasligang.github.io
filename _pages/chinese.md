@@ -16,7 +16,7 @@ author_profile: true
 
 具体研究方法为通过理论分析设计改进大规模机器学习算法，从而弥合机器学习理论、算法与大规模应用之间的巨大差距。
 
-# 部分论文列表 [[Full List](https://lijian.ac.cn/publications/)] [[Github](https://github.com/superlj666)] 
+# 部分论文列表 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ)] 
 <i>* 通讯作者</i>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
@@ -65,10 +65,11 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 
 * Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
-[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
+[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+<b>
+ <font color='red'>[[最佳学生论文奖]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</font></b> <br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C 会议, <b>
-[[最佳学生论文奖]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C 会议.
 
 * Automated Spectral Kernel Learning. 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
@@ -91,7 +92,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 面向大规模结构化预测的自动谱核学习研究。
 
 * 国家重点研发项目子课题 (2022YFB3105302.2)，120万元。 <br>
-跨平台异质性数据聚合与协同技术。</i>
+跨平台异质性数据聚合与协同技术。
 
 * 中国科学院特别研究助理自主，80万元。 <br>
 大规模小样本自动化机器学习。
