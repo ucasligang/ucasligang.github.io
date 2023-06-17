@@ -1,10 +1,7 @@
 ---
-title: "个人简介"
+title: "Chinese Bio"
 permalink: /chinese/
 author_profile: true
-redirect_from: 
-  - /chinese/
-  - /chinese.html
 ---
 
 **预聘研究员 硕士生导师 中国科学院信息工程研究所**  
