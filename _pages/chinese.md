@@ -66,8 +66,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 * Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
 [[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-<b>
- <font color='red'>[[最佳学生论文奖]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</font></b> <br>
+<font color='red'>[[最佳学生论文奖]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</font> <br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C 会议.
 
