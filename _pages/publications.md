@@ -23,11 +23,11 @@ author_profile: true
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A conference</b>.
 
 * Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning. <br>
-Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <i>International Joint Conference on Neural Networks</i> (IJCNN), 2023. CCF-C conference.
 
 * Data Heterogeneity Differential Privacy: From Theory to Algorithm. <br>
-Yiling Kang, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+Yiling Kang, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Computational Science</i> (ICCS), 2023.
 
 * Semi-supervised vector-valued learning: Improved bounds and algorithms. 
@@ -38,7 +38,7 @@ Yiling Kang, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
 ## 2022
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[Paper]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
-Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang.  <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B journal / JCR Q1</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
@@ -65,16 +65,16 @@ Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang. <br>
 
 
 ## 2021
-* Operation-level Progressive Differentiable Architecture Search. 
+* Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
 [[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
-Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference, <b>
 [[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
 
 * Operation-level Progressive Differentiable Architecture Search.
 [[Paper]](https://lijian.ac.cn/files/2021/conference_101719.pdf) <br>
-Xunyu Zhu, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br> 
+Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br> 
 <i>International Conference on Data Mining</i> (**ICDM**), 2021. <b>CCF-B conference</b>.
 
 ## 2020
@@ -86,7 +86,7 @@ Xunyu Zhu, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
 <i>arXiv preprint arXiv:2006.10310</i>, 2020.
 
 * Automated Spectral Kernel Learning. 
-[[Paper]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
 [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
@@ -126,14 +126,14 @@ Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
 
 * Max-Diversity Distributed Learning: Theory and Algorithms. 
-[[Paper]](https://lijian.ac.cn/files/2018_max_diversity_dc.pdf)
+[[Paper]](https://arxiv.org/pdf/1812.07738.pdf)
 [[Code]](https://arxiv.org/pdf/1812.07738) <br>
 Yong Liu, <b>Jian Li</b>, Weiping Wang. <br>
 <i>arXiv preprint arXiv:1812.07738</i>, 2018.
 
 ## 2017
 * Efficient Kernel Selection via Spectral Analysis. 
-[[Paper]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
+[[Paper]](https://www.ijcai.org/proceedings/2017/0295.pdf)
 [[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
 [[Sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
 <br>

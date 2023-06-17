@@ -1,13 +1,12 @@
 ---
 permalink: /
-title: "About me" # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
+title: "Overview" # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
 excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-# Overview
 
 Since 2022, I have been working as a Tenure-track Senior Researcher at the Institute of Information Engineering, Chinese Academy of Sciences (CAS).
 I obtained my Ph.D. degree from Institute of Information Engineering, CAS in 2020, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
@@ -21,7 +20,7 @@ My research interests include, but are not limited to:
 My work primarily focuses on **theoretical analysis** in those areas and developing **effective algorithms**, with the goal of bridging the gap between theory, algorithms, and practical applications.
 
 # Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Github](https://github.com/superlj666)] 
-<i>$^*$ corresponding author</i>
+<i>* corresponding author</i>
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[Paper]](https://jmlr.org/papers/v24/21-1049.html)
@@ -47,7 +46,7 @@ My work primarily focuses on **theoretical analysis** in those areas and develop
 
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[Paper]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
-Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang.  <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B journal / JCR Q1</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
@@ -67,15 +66,15 @@ Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang.  <br>
 <b>Jian Li</b>, Yong Liu, Yingying Zhang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A conference</b>.
 
-* Operation-level Progressive Differentiable Architecture Search. 
+* Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
 [[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
-Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference, <b>
 [[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
 
 * Automated Spectral Kernel Learning. 
-[[Paper]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
+[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
 [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
