@@ -5,139 +5,137 @@ author_profile: true
 ---
 ## 2023
 
-* <b>Optimal Convergence Rates for Distributed Nystrom Approximation</b>.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang.
-<i>Journal of Machine Learning (JMLR). <b>CCF-A journal, top-tier</b></i>.<br>
+* Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[Paper]](https://jmlr.org/papers/v24/21-1049.html)
-[[Code]](https://github.com/superlj666/DNystroem)
+[[Code]](https://github.com/superlj666/DNystroem) <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A journal</b>.
 
-* <b>Optimal Convergence Rates for Agnostic Nystroem Kernel Learning</b>.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang.
-<i>International Conference on Machine Learning (ICML). <b>CCF-A conference, top-tier</b></i>.<br>
+* Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[Paper]](https://lijian.ac.cn/files/2023/2023_ICML_Nystroem.pdf)
+<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A conference</b>.
 
-* <b>Towards Sharp Analysis for Distributed Learning with Random Features</b>.<br>
-<b>Jian Li</b>, Yong Liu.
-<i>International Joint Conference on Artificial Intelligence (IJCAI 2023). <b>CCF-A conference</b></i>.<br>
 
-* <b>Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning</b>.<br>
-Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
-<i>International Joint Conference on Neural Networks (IJCNN 2023). <b>CCF-C conference</b></i>.<br>
+* Towards Sharp Analysis for Distributed Learning with Random Features. <br>
+<b>Jian Li</b>, Yong Liu. <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A conference</b>.
 
-* <b>Data Heterogeneity Differential Privacy: From Theory to Algorithm</b>.<br>
-Yiling Kang, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
-<i>International Conference on Computational Science (ICCS)</i>.<br>
+* Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning. <br>
+Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+<i>International Joint Conference on Neural Networks</i> (IJCNN), 2023. CCF-C conference.
 
-* <b>Semi-supervised vector-valued learning: Improved bounds and algorithms</b>.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang.
-<i>Pattern Recognition (PR). <b>CCF-B journal / JCR Q1</b></i>.<br>
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000572)
+* Data Heterogeneity Differential Privacy: From Theory to Algorithm. <br>
+Yiling Kang, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+<i>International Conference on Computational Science</i> (ICCS), 2023.
+
+* Semi-supervised vector-valued learning: Improved bounds and algorithms. 
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang.  <br>
+<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B journal / JCR Q1</b>.
 
 ## 2022
-* <b>Non-IID Federated Learning with Sharper Risk Bound</b>.<br>
-Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
-<i>IEEE Transactions on Neural Networks and Learning Systems (TNNLS). <b>CCF-B journal / JCR Q1</b></i>.<br>
-[[Paper]](https://doi.org/10.1109/TNNLS.2022.3213187)
+* Non-IID Federated Learning with Sharper Risk Bound.
+[[Paper]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
+Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang.  <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B journal / JCR Q1</b>.
 
-* <b>Convolutional Spectral Kernel Learning with Generalization Guarantees</b>.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang.
-<i>Artificial Intelligence (AI). <b>CCF-A journal / JCR Q1</b></i>.<br>
+* Convolutional Spectral Kernel Learning with Generalization Guarantees.
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
-[[Code]](https://github.com/superlj666/CSKN/)
+[[Code]](https://github.com/superlj666/CSKN/) <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A journal / JCR Q1</b>.
 
-* <b>Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth</b>.<br>
-Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang.
-<i>The Conference on Information and Knowledge Management (CIKM 2022). <b>CCF-B conference</b></i>.<br>
-[[Paper]](https://doi.org/10.1145/3511808.3557451)
+* Sharper Utility Bounds for Differentially Private Models: Smooth and Non-smooth.
+[[Paper]](https://doi.org/10.1145/3511808.3557451) <br>
+Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang. <br>
+<i>The Conference on Information and Knowledge Management</i> (**CIKM**), 2022. <b>CCF-B conference</b>.
 
-* <b>Non-IID Distributed Learning with Optimal Mixture Weights</b>.<br>
-<b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang.
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases. (ECML-PKDD 2022). <b>CCF-B conference</b></i>.<br>
-[[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf)
+* Non-IID Distributed Learning with Optimal Mixture Weights. 
+[[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br>
+<b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang. <br>
+<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (**ECML-PKDD**), 2022. <b>CCF-B conference</b>.
 
-<!-- * <b>Optimal Rates for Distributed Learning with Random Features.<br>
-<b>Jian Li</b>, Yong Liu.
-<i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022)</i>.<br>
-[[Paper]](https://arxiv.org/pdf/1906.03155.pdf)
-[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features) -->
-
-* <b>Ridgeless Regression with Random Features</b>.<br>
-<b>Jian Li</b>, Yong Liu, Yingying Zhang.
-<i>The 31st International Joint Conference on Artificial Intelligence. (IJCAI 2022). <b>CCF-A conference</b></i>.<br>
+* Ridgeless Regression with Random Features.
 [[Paper]](https://arxiv.org/pdf/2205.00477.pdf)
-[[Code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features)
+[[Code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features) <br>
+<b>Jian Li</b>, Yong Liu, Yingying Zhang. <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A conference</b>.
 
 
 ## 2021
-* <b>Operation-level Progressive Differentiable Architecture Search</b>.<br>
-Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.
-<i>Pacific Rim International Conference on Artificial Intelligence (PRICAI 2021)</i>. <b>CCF-C conference, best student paper award</b>.<br>
+* Operation-level Progressive Differentiable Architecture Search. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
-[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)
-* <b>Operation-level Progressive Differentiable Architecture Search</b>.<br>
-Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <i>2021 IEEE International Conference on Data Mining (ICDM 2021), 1559-1564.</i> <b>CCF-B conference</b>.<br>
-[[Paper]](https://lijian.ac.cn/files/2021/conference_101719.pdf)
+[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
+Bojian Wei, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br>
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference, <b>
+[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
+
+* Operation-level Progressive Differentiable Architecture Search.
+[[Paper]](https://lijian.ac.cn/files/2021/conference_101719.pdf) <br>
+Xunyu Zhu, <b>Jian Li$^*$</b>, Yong Liu, Weiping Wang. <br> 
+<i>International Conference on Data Mining</i> (**ICDM**), 2021. <b>CCF-B conference</b>.
 
 ## 2020
 
-* <b>Neural Architecture Optimization with Graph VAE</b>. Preprint.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2006.10310, 2020</i>.<br>
+* Neural Architecture Optimization with Graph VAE.
 [[Paper]](https://arxiv.org/pdf/2006.10310.pdf)
-[[Code]](https://github.com/superlj666/NGAE)
-* <b>Convolutional Spectral Kernel Learning</b>. Preprint.<br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:2002.12744, 2020</i>.<br>
-[[Paper]](https://arxiv.org/pdf/2002.12744.pdf)
-[[Code]](https://github.com/superlj666/CSKN)
-* <b>Automated Spectral Kernel Learning</b>. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>In Proceedings of the 34th AAAI Conference on Artificial Intelligence (**AAAI 2020**),  4618-4625.</i> <b>CCF-A conference</b>.<br>
+[[Code]](https://github.com/superlj666/NGAE) <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>arXiv preprint arXiv:2006.10310</i>, 2020.
+
+* Automated Spectral Kernel Learning. 
 [[Paper]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_ASKL.pdf)
 [[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning)
+[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A conference</b>.
 
 
 ## 2019
-* <b>Multi-Class Learning using Unlabeled Samples: Theory and Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**).</i> <b>CCF-A conference</b>.<br>
+* Multi-Class Learning using Unlabeled Samples: Theory and Algorithm. 
 [[Paper]](https://www.ijcai.org/proceedings/2019/0399.pdf)
 [[Poster]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_poster.pdf)
 [[Slides]](https://lijian.ac.cn/files/2019_IJCAI_MC/2019_MC_LRC_SSL_slides.pdf)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm)
-* <b>Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <i>In Proceedings of the 28th International Joint Conference on Artificial Intelligence (**IJCAI 2019**).</i> <b>CCF-A conference</b>.<br>
+[[Code]](https://github.com/superlj666/Multi-Class-Learning-using-Unlabeled-Samples-Theory-and-Algorithm) <br>
+<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang.  <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
+
+* Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis. 
 [[Paper]](https://www.ijcai.org/proceedings/2019/0400.pdf)
-[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_poster.pdf)
-[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nystrom_PCG_slides.pdf)
-[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis)
-* <b>Learning Vector-valued Functions with Local Rademacher Complexity</b>. Preprint. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1909.04883, 2019</i>. <br>
-[[Paper]](https://arxiv.org/pdf/1909.04883)
-[[Code]](https://github.com/superlj666/Learning-Vector-valued-Functions-with-Local-Rademacher-Complexity)
-* <b>Distributed Learning with Random Features</b>. Preprint. <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <i>arXiv preprint arXiv:1906.03155, 2019</i>. <br>
-[[Paper]](https://arxiv.org/pdf/1906.03155)
-[[Code]](https://github.com/superlj666/Distributed-Learning-with-Random-Features)
-* <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <i>arXiv preprint arXiv:1902.04768, 2019</i>. <br>
-[[Paper]](https://arxiv.org/pdf/1902.04768)
+[[Poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_poster.pdf)
+[[Slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_slides.pdf)
+[[Code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis) <br>
+<b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
+
+* <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. 
+[[Paper]](https://arxiv.org/pdf/1902.04768) <br>
+Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <br>
+<i>arXiv preprint arXiv:1902.04768, 2019</i>.
 
 ## 2018
-* <b>Multi-Class Learning: From Theory to Algorithm</b>. <br>
-<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <i>Advances in Neural Information Processing Systems 31 (**NeurIPS 2018**).</i> <b>CCF-A conference</b>.<br>
-[[Paper]](https://lijian.ac.cn/files/2018_NeurIPS_MC/2018_mc_lr.pdf)
+* Multi-Class Learning: From Theory to Algorithm. 
+[[Paper]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
 [[Poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
 [[Sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm)
-* <b>Max-Diversity Distributed Learning: Theory and Algorithms</b>. Preprint. <br>
-Yong Liu, <b>Jian Li</b>, Weiping Wang. <i>arXiv preprint arXiv:1812.07738, 2018</i>. <br>
-[[Paper]](https://lijian.ac.cn/files/2018_max_diversity_dc.pdf)
-[[Code]](https://arxiv.org/pdf/1812.07738)
+[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
+<b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
 
+* Max-Diversity Distributed Learning: Theory and Algorithms. 
+[[Paper]](https://lijian.ac.cn/files/2018_max_diversity_dc.pdf)
+[[Code]](https://arxiv.org/pdf/1812.07738) <br>
+Yong Liu, <b>Jian Li</b>, Weiping Wang. <br>
+<i>arXiv preprint arXiv:1812.07738</i>, 2018.
 
 ## 2017
-* <b>Efficient Kernel Selection via Spectral Analysis</b>. <br>
-<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <i>In Proceedings of the 26th International Joint Conference on Artificial Intelligence (**IJCAI 2017**). </i> <b>CCF-A conference</b>.<br>
+* Efficient Kernel Selection via Spectral Analysis. 
 [[Paper]](https://lijian.ac.cn/files/2017_IJCAI_KS/2017_kernel_selection.pdf)
 [[Poster]](https://lijian.ac.cn/files/2017_IJCAI_KS/ijicai-poster-0816.pdf)
 [[Sildes]](https://lijian.ac.cn/files/2017_IJCAI_KS/IJCAI_presentation.pptx)
+<br>
+<b>Jian Li</b>, Yong Liu, Hailun Lin, Yinliang Yue, Weiping Wang. <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2017. <b>CCF-A conference</b>.
