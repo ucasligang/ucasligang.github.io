@@ -1,7 +1,11 @@
 ---
+permalink: /
 title: "个人简介"
 permalink: /chinese/
 author_profile: true
+redirect_from: 
+  - /chinese/
+  - /chinese.html
 ---
 **预聘研究员 硕士生导师 中国科学院信息工程研究所**  
 **电子邮箱：lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com**
