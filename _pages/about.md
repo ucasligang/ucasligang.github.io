@@ -1,14 +1,14 @@
 ---
 permalink: /
 title: "Overview " # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
-excerpt: ""
+excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Since 2022, I have been working as a Tenure-track Senior Researcher at the Institute of Information Engineering, Chinese Academy of Sciences (CAS).
+Since 2020, I have been working as a Tenure-track Senior Researcher at the Institute of Information Engineering, Chinese Academy of Sciences (CAS).
 I obtained my Ph.D. degree from Institute of Information Engineering, CAS in 2020, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 My research interests mainly lie in **large-scale machine learning**, encompassing efficient algorithms and theoretical guarantees for both conventional machine learning methods and large language models (LLMs).
@@ -17,7 +17,7 @@ My research interests include, but are not limited to:
 * **Efficient LLMs**: efficient Transformers, compression approaches for LLMs, and parameter-efficient fine-tuning (PEFT).
 * **Deep Learning and LLM Theory**: theoretical studies for benign overfitting or double descent phenomenon in deep learning, as well as emergent ability and grokking in LLMs.
 
-My work primarily focuses on **theoretical analysis** in those areas and developing **effective algorithms**, with the goal of bridging the gap between theory, algorithms, and practical applications.
+With the goal of bridging the gap between theory, algorithms and practical applications, I am trying to develop **scalable algorithms** based on **theoretical analysis** for large-scale machine learning methods.
 
 # Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Github](https://github.com/superlj666)] 
 <i>* corresponding author</i>

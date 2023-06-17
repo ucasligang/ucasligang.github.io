@@ -10,6 +10,6 @@ author_profile: true
 
 # Contact
 Institute of Information Engineering, Chinese Academy of Sciences<br>
-89-A, Minzhuang Rd, Haidian District,
+No.19, Shucun Rd, Haidian District,
 Beijing, 100093, China<br>
-Email: me [at] lijian.ac.cn, lijian9026 [at] iie.ac.cn
+Email: lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com

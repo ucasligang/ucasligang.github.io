@@ -18,13 +18,13 @@ main:
   #- title: "My Lab"
   #  url: /lab/
   
-  - title: "CV&Contact"
-    url: /cv&contact/  
+  # - title: "CV&Contact"
+  #   url: /cv&contact/  
 
   # - title: "Blogs"
   #   url: /year-archive/
   
-  # - title: "中文介绍"
-  #  url: /chinese/  
+  - title: "Chinese"
+   url: /chinese/  
   
   
