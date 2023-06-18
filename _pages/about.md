@@ -56,7 +56,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 <i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A journal / JCR Q1</b>.
 
 * Non-IID Distributed Learning with Optimal Mixture Weights. 
-[[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br>
+[[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br> 
 <b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang. <br>
 <i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (**ECML-PKDD**), 2022. <b>CCF-B conference</b>.
 
@@ -104,12 +104,12 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 
 # Students
 - Ph.D. students
-  - Yilin Kang (2018-2023), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
+  - 🎓Yilin Kang (2018-2023), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
   - Xunyu Zhu (2020-present), Neural Architecture Search. Papers: ICDM 2021.
   - Boxuan Che (2020-present), Efficient Graph Neural Networks.
 - Master's students
-  - Bojian Wei (2019-2022), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
-  - Xuning Zhang (2023-present), Federated Learning. Excellent Bachelor's Thesis in Wuhan University.
+  - 🎓Bojian Wei (2019-2022), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
+  - Xuning Zhang (2023-present), Federated Learning. **Excellent Bachelor's Thesis in Wuhan University**.
 
 # Honors and Awards
 * PRICAI 2021 best student paper award.
