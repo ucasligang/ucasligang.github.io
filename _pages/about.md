@@ -68,10 +68,10 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 
 * Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
-[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
+[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+<b>[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b><br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference, <b>
-[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference.
 
 * Automated Spectral Kernel Learning. 
 [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
@@ -89,7 +89,6 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
 
-
 #  Projects (Manager)
 * National Natural Science Foundation of China (No. 62106257), &yen;300,000. <br>
 <i> Large Scale Structured Prediction with Automated Spectral Kernel Learning</i>.
@@ -103,6 +102,15 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * Excellent Talents Program of Institute of Information Engineering, CAS. <br>
 <i> Tenure-track Senior Researcher (Professor)</i>.
 
+# Students
+- Ph.D. students
+  - Yilin Kang (2018-2023), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
+  - Xunyu Zhu (2020-present), Neural Architecture Search. Papers: ICDM 2021.
+  - Boxuan Che (2020-present), Efficient Graph Neural Networks.
+- Master's students
+  - Bojian Wei (2019-2022), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
+  - Xuning Zhang (2023-present), Federated Learning. Excellent Bachelor's Thesis in Wuhan University.
+
 # Honors and Awards
 * PRICAI 2021 best student paper award.
 * Outstanding Graduates of Beijing, 2020.
@@ -114,7 +122,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * IIE Presidential Scholarship, 2018.
 
 # Eduction
-- 2015.9 - 2020.7: Ph.D. in Cybersecurity, University of Chinese Academy of Sciences.
+- 2015.9 - 2020.7: Ph.D. in Cybersecurity, University of Chinese Academy of Sciences. Dissertation: [Research on Large Scale Semi-supervised Model Selection for Kernel Methods](https://lijian.ac.cn/files/2020/dissertation.pdf).
 - 2011.9 - 2015.7: B.Eng. in Software Engineering (International class), Northeastern University.
 
 # Academic Service

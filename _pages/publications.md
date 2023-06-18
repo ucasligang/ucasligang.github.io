@@ -67,10 +67,10 @@ Yilin Kang, Yong Liu, <b>Jian Li</b>, Weiping Wang. <br>
 ## 2021
 * Federated learning for non-iid data: From theory to algorithm. 
 [[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
-[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)<br>
+[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+<b>[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b><br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference, <b>
-[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b>.
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference.
 
 * Operation-level Progressive Differentiable Architecture Search.
 [[Paper]](https://lijian.ac.cn/files/2021/conference_101719.pdf) <br>
