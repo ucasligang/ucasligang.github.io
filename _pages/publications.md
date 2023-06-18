@@ -110,7 +110,7 @@ Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Weiping Wang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
 
-* <b>Efficient Cross-Validation for Semi-Supervised Learning</b>. 
+* Efficient Cross-Validation for Semi-Supervised Learning. 
 [[Paper]](https://arxiv.org/pdf/1902.04768) <br>
 Yong Liu, <b>Jian Li</b>, Guangjun Wu, Lizhong Ding, Weiping Wang. <br>
 <i>arXiv preprint arXiv:1902.04768, 2019</i>.
