@@ -92,6 +92,11 @@ Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
 <i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A conference</b>.
 
+* 大规模半监督的核方法模型选择研究. 
+[[Paper]](https://lijian.ac.cn/files/2020/dissertation.pdf)
+[[Presentation]](https://lijian.ac.cn/files/2020/dissertation_presentation.pdf) 🎓 <br>
+<b>李健</b>.
+<i>中国科学院大学</i>.
 
 ## 2019
 * Multi-Class Learning using Unlabeled Samples: Theory and Algorithm. 
