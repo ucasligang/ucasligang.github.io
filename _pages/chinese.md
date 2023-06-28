@@ -103,7 +103,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 
 # 指导学生
 - 博士研究生
-  - 🎓康艺霖（2018-2023），差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室.
+  - 🎓康艺霖（2018-2023），差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室。
   - 朱勋宇（2020-至今），神经网络结构搜索。发表论文：ICDM 2021。
   - 车博轩（2020-至今），高效图神经网络。
 - 硕士研究生
