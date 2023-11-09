@@ -20,7 +20,6 @@ author_profile: true
 
 # 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* 通讯作者</i>
-
 ## 期刊论文
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
@@ -101,7 +100,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 
 # 主持项目
 
-* 中国博士后科学基金（站中）特别资助项目 (No. 2023T160680)，2023.07 - 2024.03，18万元。 <br>
+* 中国博士后科学基金特别资助项目 (No. 2023T160680)，2023.07 - 2024.03，18万元。 <br>
 面向结构化预测的深度可微高斯过程方法研究。
 
 * 国家重点研发项目子课题 (2022YFB3105302.2)，202201 - 2024.12，120万元。 <br>
@@ -139,7 +138,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 
 
 # 个人履历
-| <!-- -->    | <!-- -->    | <!-- -->    | <!-- -->    |
+| 时间    | 职级  | 工作学习单位    | 方向    |
 |  ----  | ----  | --- | --- |
 | 2023.11 - 至今   | 副研究员一级，青年预聘研究员 |  中国科学院信息工程研究所 | 大规模统计机器学习, 大语言模型|
 | 2020.09 - 2023.11  | 助理研究员，博士后，青年预聘研究员 | 中国科学院信息工程研究所 | 大规模统计机器学习 |

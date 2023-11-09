@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am a Associate Senior Researcher (Tenure-track Senior Researcher) and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical machine learning.
-In 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS in 2020, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
+In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 My research interests mainly lie in **large-scale machine learning**, encompassing efficient algorithms and theoretical guarantees for both conventional machine learning methods and large language models (LLMs).
 My research interests include, but are not limited to:
@@ -21,7 +21,6 @@ With the goal of bridging the gap between theory, algorithms and practical appli
 
 # Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* corresponding author</i>
-
 ## Journal Papers
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
@@ -32,8 +31,7 @@ With the goal of bridging the gap between theory, algorithms and practical appli
 
 * Optimal Convergence for Agnostic Kernel Learning With Random Features.
 [[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
-[[code]](https://github.com/superlj666/Agnostic-RF)
-<br>
+[[code]](https://github.com/superlj666/Agnostic-RF) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang.  <br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B journal</b>.
 
@@ -45,7 +43,7 @@ With the goal of bridging the gap between theory, algorithms and practical appli
 * Improving Differentiable Architecture Search via Self-distillation.
 [[pdf]](https://doi.org/10.1016/j.neunet.2023.08.062) <br>
 Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
-<i>Neural Networks</i>. <b>CCF-B journal</b>.
+<i>Neural Networks</i>, 2023. <b>CCF-B journal</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
@@ -61,8 +59,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
 ## Conference Papers
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
-[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh)
-<br>
+[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A conference</b>.
 
@@ -100,7 +97,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
 
-#  Projects (Manager)
+#  Projects
 * China Postdoctoral Science Foundation (No. 2023T160680), 2023.07 - 2024.03, &yen;180,000. <br>
 <i>Research on Deep Differentiable Gaussian Processes for Structured Prediction</i>.
 
@@ -137,7 +134,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * IIE Presidential Scholarship, 2018.
 
 # Curriculum Vitae
-| <!-- -->    | <!-- -->    | <!-- -->    | <!-- -->    |
+| Time | Title | Institution | Research Direction |
 |  ----  | ----  | --- | --- |
 | 2023.11 - present   | Associate Senior Researcher, Tenure-track Senior Researcher  |  Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning, LLMs|
 | 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning |

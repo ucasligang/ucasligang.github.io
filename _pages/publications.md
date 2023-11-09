@@ -12,8 +12,7 @@ author_profile: true
 <i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A journal</b>.
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
-[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh)
-<br>
+[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A conference</b>.
 
@@ -36,7 +35,7 @@ author_profile: true
 * Improving Differentiable Architecture Search via Self-distillation.
 [[pdf]](https://doi.org/10.1016/j.neunet.2023.08.062) <br>
 Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
-<i>Neural Networks</i>. <b>CCF-B journal</b>.
+<i>Neural Networks</i>, 2023. <b>CCF-B journal</b>.
 
 * Towards Sharper Risk Bounds for Agnostic Multi-Objectives Learning. [[pdf]](https://ieeexplore.ieee.org/document/10191519) <br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
