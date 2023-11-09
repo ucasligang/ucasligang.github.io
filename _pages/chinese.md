@@ -4,107 +4,124 @@ permalink: /chinese/
 author_profile: true
 ---
 
-**预聘研究员 硕士生导师 中国科学院信息工程研究所** 
+**副研究员（一级） 硕士生导师 中国科学院信息工程研究所** 
 
 **地址：北京市海淀区树村路19号，100085** 
 
 **邮箱：lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com**
 
 # 研究方向
-本人研究方向为大规模机器学习，针对传统机器学习模型、大语言模型设计进行泛化理论分析并设计高效、可扩展的算法。主要研究内容包括：
-- **大规模机器学习**：为大规模机器学习方法（包括联邦学习、分布式学习、Nyström 采样、随机特征、随机投影等大规模算法），提供更紧致的泛化理论分析并设计高效算法。
+本人研究方向为大规模统计机器学习，针对传统机器学习模型、大语言模型设计进行理论理论分析并设计高效、可扩展的算法。主要研究内容包括：
+- **大规模统计机器学习**：为大规模机器学习方法（包括联邦学习、分布式学习、Nyström 采样、随机特征、随机投影等大规模算法），提供更紧致的泛化理论分析并设计高效算法。
 - **高效大语言模型**：包括高效 Transformer、大模型压缩方法、参数高效微调方法。
-- **深度学习及大模型理论**：为深度学习中良好过拟合、测试误差双下降等现象提供理论分析，并尝试理论探索大模型的独有能力（如涌现、顿悟等现象）。
+- **深度学习及大模型理论**：为深度学习中良好过拟合、测试误差双下降等现象提供理论分析，并尝试理论探索大语言模型的基础理论。
 
 具体研究方法为通过理论分析设计改进大规模机器学习算法，从而弥合机器学习理论、算法与大规模应用之间的巨大差距。
 
-# 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en&user=IAJpTqYAAAAJ)] 
+# 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* 通讯作者</i>
 
+## 期刊论文
+
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
-[[Paper]](https://jmlr.org/papers/v24/21-1049.html)
-[[Code]](https://github.com/superlj666/DNystroem) <br>
+[[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
+[[code]](https://github.com/superlj666/DNystroem) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
-<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A 期刊</b>.
+<i>Journal of Machine Learning Research</i> (**JMLR**), 2023. <b>CCF-A journal</b>.
 
-* Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
-[[Paper]](https://lijian.ac.cn/files/2023/2023_ICML_Nystroem.pdf)
+* Optimal Convergence for Agnostic Kernel Learning With Random Features.
+[[pdf]](https://ieeexplore.ieee.org/abstract/document/10304308)
+[[code]](https://github.com/superlj666/Agnostic-RF)
 <br>
-<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
-<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A 会议</b>.
-
-
-* Towards Sharp Analysis for Distributed Learning with Random Features. <br>
-<b>Jian Li</b>, Yong Liu. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A 会议</b>.
+<b>Jian Li</b>, Yong Liu, Weiping Wang.  <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2023. <b>CCF-B journal</b>.
 
 * Semi-supervised vector-valued learning: Improved bounds and algorithms. 
-[[Paper]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
+[[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320323000572) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang.  <br>
-<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B 期刊 / 中科院一区</b>.
+<i>Pattern Recognition</i> (**PR**), 2023. <b>CCF-B journal</b>.
 
-* Non-IID Federated Learning with Sharper Risk Bound.
-[[Paper]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
-Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
-<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B 期刊 / 中科院一区</b>.
+* Improving Differentiable Architecture Search via Self-distillation.
+[[pdf]](https://doi.org/10.1016/j.neunet.2023.08.062) <br>
+Xunyu Zhu, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
+<i>Neural Networks</i>. <b>CCF-B journal</b>.
 
 * Convolutional Spectral Kernel Learning with Generalization Guarantees.
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A 期刊 / 中科院一区</b>.
+<i>Artificial Intelligence</i> (**AIJ**), 2022. <b>CCF-A journal</b>.
 
-* Non-IID Distributed Learning with Optimal Mixture Weights. 
-[[Paper]](https://2022.ecmlpkdd.org/wp-content/uploads/2022/09/sub_1304.pdf) <br>
-<b>Jian Li</b>, Bojian Wei, Yong Liu, Weiping Wang. <br>
-<i>European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases</i> (**ECML-PKDD**), 2022. <b>CCF-B 会议</b>.
+* Non-IID Federated Learning with Sharper Risk Bound.
+[[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>
+Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang.  <br>
+<i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B journal</b>.
+
+## 会议论文
+
+* Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
+[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh)
+<br>
+<b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
+<i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A conference</b>.
+
+* Towards Sharp Analysis for Distributed Learning with Random Features. [[pdf]](https://www.ijcai.org/proceedings/2023/0436.pdf) <br>
+<b>Jian Li</b>, Yong Liu. <br>
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A conference</b>.
 
 * Ridgeless Regression with Random Features.
-[[Paper]](https://arxiv.org/pdf/2205.00477.pdf)
-[[Code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features) <br>
+[[pdf]](https://arxiv.org/pdf/2205.00477.pdf)
+[[code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features) <br>
 <b>Jian Li</b>, Yong Liu, Yingying Zhang. <br>
-<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A 会议</b>.
+<i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A conference</b>.
 
 * Federated learning for non-iid data: From theory to algorithm. 
-[[Paper]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
-[[Presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-**[[最佳学生论文奖]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)** <br>
+[[pdf]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
+[[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
+<b>[[Best student paper award]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)</b><br>
 Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
-<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C 会议.
+<i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference.
 
 * Automated Spectral Kernel Learning. 
-[[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
-[[Poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
-[[Code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
+[[poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
+[[code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
 <b>Jian Li</b>, Yong Liu, Weiping Wang. <br>
-<i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A 会议</b>.
+<i>AAAI Conference on Artificial Intelligence</i> (**AAAI**), 2020. <b>CCF-A conference</b>.
 
 * Multi-Class Learning: From Theory to Algorithm. 
-[[Paper]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
-[[Poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
-[[Sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
+[[pdf]](https://proceedings.neurips.cc/paper/2018/file/1141938ba2c2b13f5505d7c424ebae5f-Paper.pdf)
+[[poster]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-poster.pdf)
+[[sildes]](https://lijian.ac.cn/files/2018_NeurIPS_MC/mc-lrc-nips-slides.pdf)
 [[3-minute video]](https://youtu.be/mE_RpgWuKK8)
-[[Code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
+[[code]](https://github.com/superlj666/Multi-Class-Learning-From-Theory-to-Algorithm) <br>
 <b>Jian Li</b>, Yong Liu, Rong Yin, Hua Zhang, Lizhong Ding, Weiping Wang. <br>
-<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A 会议</b>.
+<i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A conference</b>.
+
 
 # 主持项目
+
+* 中国博士后科学基金（站中）特别资助项目 (No. 2023T160680)，2023.07 - 2024.03，18万元。 <br>
+面向结构化预测的深度可微高斯过程方法研究。
+
+* 国家重点研发项目子课题 (2022YFB3105302.2)，202201 - 2024.12，120万元。 <br>
+跨平台异质性数据聚合与协同技术。
+
 * 国家自然科学基金青年基金 (No. 62106257)，30万元。 <br>
 面向大规模结构化预测的自动谱核学习研究。
 
-* 国家重点研发项目子课题 (2022YFB3105302.2)，120万元。 <br>
-跨平台异质性数据聚合与协同技术。
-
-* 中国科学院特别研究助理资助，80万元。 <br>
+* 中国科学院特别研究助理资助，2020.09 - 2022.09，80万元。 <br>
 大规模小样本自动化机器学习。
 
-* 中国科学院信息工程研究所优才计划B类，
-预聘（正高）研究员。
+* 中国科学院信息工程研究所优才计划A类，2023.11 - 2026.11，预聘（正高级）研究员。
+
+* 中国科学院信息工程研究所优才计划B类，2020.09 - 2023.09，预聘（正高级）研究员。
+
 
 # 指导学生
 - 博士研究生
   - 康艺霖（2018-2023）🎓，差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室.
-  - 朱勋宇（2020-至今），神经网络结构搜索。发表论文：ICDM 2021。
+  - 朱勋宇（2020-至今），神经网络结构搜索。发表论文：ICDM 2021, Neural Networks。
   - 车博轩（2020-至今），高效图神经网络。
 - 硕士研究生
   - 韦博舰（2019-2022）🎓，联邦学习。发表论文：PRICAI 2021 (**最佳学生论文奖**)、ECML-PKDD 2022、TNNLS、IJCNN 2023。毕业去向：中国银行总行管培生。
@@ -121,11 +138,15 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * 2018年中科院信工所所长优秀奖。
 
 
-# 教育背景
-* 2015.09 - 2020.07，中国科学院大学网络空间安全专业，工学博士，导师：王伟平。毕业论文：[大规模半监督的核方法模型选择研究](https://lijian.ac.cn/files/2020/dissertation.pdf)。
-* 2011.09 - 2015.07，东北大学软件工程专业(英语国际班)，工学学士。
+# 个人履历
+| <!-- -->    | <!-- -->    | <!-- -->    | <!-- -->    |
+|  ----  | ----  | --- | --- |
+| 2023.11 - 至今   | 副研究员一级，青年预聘研究员 |  中国科学院信息工程研究所 | 大规模统计机器学习, 大语言模型|
+| 2020.09 - 2023.11  | 助理研究员，博士后，青年预聘研究员 | 中国科学院信息工程研究所 | 大规模统计机器学习 |
+| 2015.09 - 2020.07  | 硕博连读研究生 | 中国科学院信息工程研究所 | 大规模模型选择，半监督学习 |
+| 2011.09 - 2020.07  | 本科生 | 东北大学 | 软件工程（英语国际班）|
 
 # 学术服务
 - 程序委员或审稿人
   - 会议：ICML、NeurIPS、ICLR、AAAI、IJCAI、ECAI
-  - 期刊：TPAMI、JMLR
+  - 期刊：TPAMI、JMLR、Pattern Recognition
