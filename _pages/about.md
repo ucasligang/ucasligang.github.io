@@ -129,6 +129,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * PRICAI 2021 best student paper award.
 * Outstanding Graduates of Beijing, 2020.
 * Outstanding Graduates of University of Chinese Academy of Sciences (UCAS), 2020.
+* Outstanding Graduates of Institute of Information Engineering, CAS, 2020.
 * National Scholarship for Doctoral students, 2019.
 * ZhuLiYueHua Scholarship for Excellent Doctoral Student, 2019.
 * CAS Presidential Scholarship, 2019.
