@@ -54,6 +54,20 @@ Single line blockquote:
 
 ### Table 1
 
+| Time               | Title                                                       | Institution                               | Research Direction                                    |
+|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
+| 2023.11 - present  | Associate Senior Researcher| IIE, CAS | Statistical Machine Learning, LLMs  |
+| 2011.09 - 2020.07  | Bachelor Candidate   | Northeastern University                   | Software Engineering (International class)            |
+
+
+| Entry            | Item   |                                                              |
+| --------         | ------ | ------------------------------------------------------------ |
+| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS |
+| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS |
+| 2015.09 - 2020.07  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS |
+| 2011.09 - 2020.07  | Bachelor Candidate                                          | Northeastern University                   |
+
+
 | Entry            | Item   |                                                              |
 | --------         | ------ | ------------------------------------------------------------ |
 | [John Doe](#)    | 2016   | Description of the item in the list                          |
