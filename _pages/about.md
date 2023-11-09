@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Associate Senior Researcher (Tenure-track Senior Researcher) and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical machine learning.
+I am an Associate Senior Researcher (Tenure-track Senior Researcher) and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical machine learning.
 In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 My research interests mainly lie in **large-scale machine learning**, encompassing efficient algorithms and theoretical guarantees for both conventional machine learning methods and large language models (LLMs).
