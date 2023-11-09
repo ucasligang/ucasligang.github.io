@@ -134,6 +134,7 @@ Bojian Wei, <b>Jian Li*</b>, Yong Liu, Weiping Wang. <br>
 * IIE Presidential Scholarship, 2018.
 
 # Curriculum Vitae
+
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
 | 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning, LLMs        |
