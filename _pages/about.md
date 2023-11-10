@@ -118,6 +118,27 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * Excellent Talents Program of Institute of Information Engineering, CAS, 2020.09 - 2026.09. <br>
 <i> Tenure-track Senior Researcher (Professor)</i>.
 
+# Patents
+
+## Application
+
+* Jian Li, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium: CN. Application number：202011567991.3. December 25, 2020.
+* Jian Li, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism: CN. Application number: 202311073645.3. August 24, 2023
+* Jian Li, Jiaoyang Li, Zheng Lin, Yong Liu, Weiping Wang. A Vertical Domain Large Model Method and System Based on Knowledge Distillation and Prompt Engineering: CN. Application number: 202311073641.5. August 24, 2023.
+
+## Granted
+
+* Hailun Lin, Yong Liu, Jian Li, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Patent number: CN110059194A. April 8, 2022.
+
+# Curriculum Vitae
+
+| Time               | Title                                                       | Institution                               | Research Direction                                    |
+|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
+| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
+| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
+| 2015.09 - 2020.07  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
+| 2011.09 - 2020.07  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
+
 # Students
 - Ph.D. students
   - 🎓Yilin Kang (2018-2023), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
@@ -137,15 +158,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * CAS Presidential Scholarship, 2019.
 * National Scholarship for Doctoral students, 2018.
 * IIE Presidential Scholarship, 2018.
-
-# Curriculum Vitae
-
-| Time               | Title                                                       | Institution                               | Research Direction                                    |
-|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
-| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
-| 2015.09 - 2020.07  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
-| 2011.09 - 2020.07  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
 # Academic Service
 - Program committee/reviewer:
