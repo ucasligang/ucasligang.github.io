@@ -16,7 +16,7 @@ author_profile: true
 * **高效大模型算法**：高效Transformer、大语言模型压缩方法和参数高效微调（PEFT）。
 * **大规模机器学习方法**：为大规模机器学习方法提供统计保证及改进算法，包括联邦学习、分布式学习、随机特征、Nyström方法、草图方法等。
 
-# 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=zh-CN&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
+# 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* 通讯作者</i>
 ## 预印论文
 

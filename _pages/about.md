@@ -18,7 +18,7 @@ My research interests include, but are not limited to:
 * **Large-scale Machine Learning**: statistical guarantees and improved algorithms for large-scale machine learning methods, including federated learning, distributed learning, random features, Nyström methods, sketching, etc.
   
 
-# Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=zh-CN&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
+# Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* corresponding author</i>
 ## Preprint
 
@@ -120,7 +120,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 # Patents
 
-## Application
+## Pending
 
 * Jian Li, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium: CN. Application number：202011567991.3. December 25, 2020.
 * Jian Li, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism: CN. Application number: 202311073645.3. August 24, 2023
