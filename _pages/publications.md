@@ -89,7 +89,7 @@ Yilin Kang, Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. <br>
 * Federated learning for non-iid data: From theory to algorithm. 
 [[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
-[[🏆<u><b>Best student paper award</b></u>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)<br>
+[[🏆<b>Best student paper award</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png)<br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference.
 
