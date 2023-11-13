@@ -94,7 +94,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C conference.
 
 * Operation-level Progressive Differentiable Architecture Search.
-[[pdf]](https://lijian.ac.cn/files/2021/conference_101719.pdf) <br>
+[[pdf]](https://ieeexplore.ieee.org/document/9679197) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br> 
 <i>International Conference on Data Mining</i> (**ICDM**), 2021. <b>CCF-B conference</b>.
 
