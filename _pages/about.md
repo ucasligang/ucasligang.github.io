@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Overview " # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
-excerpt: "Overview"
+# title: "Overview " # ([Curriculum Vitae](https://lijian.ac.cn/files/cv/UCAS_PhD_lijian.pdf))
+# excerpt: "Overview"
 author_profile: true
 redirect_from: 
   - /about/
@@ -25,8 +25,6 @@ My research interests include, but are not limited to:
 | 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
 | 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
-
-<br>
 
 ## Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* corresponding author</i>
@@ -124,6 +122,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 * Special Research Assistant Project of CAS, 2020.09 - 2022.09, &yen;800,000. <br>
 <i> Large-scale Few-shot Automated Machine Learning</i>.
+
 
 ## Patents
 

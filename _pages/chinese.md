@@ -26,8 +26,6 @@ author_profile: true
 | 2015.09 - 2020.06  | 硕博连读研究生                   | 中国科学院信息工程研究所 | 大规模模型选择，半监督学习    |
 | 2011.09 - 2015.06  | 本科生                           | 东北大学               | 软件工程（英语国际班）        |
 
-<br>
-
 ## 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* 通讯作者</i>
 
@@ -142,7 +140,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 * 林海伦, 刘勇, 李健, 王伟平. 一种融合表示学习和分治策略的大规模本体合并方法：中国. 授权号：CN110059194A. 2022年4月8日.
 
-# 指导学生
+## 指导学生
 - 博士研究生
   - 康艺霖（2018-2023）🎓，差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室。
   - 朱勋宇（2020-至今），神经网络结构搜索。发表论文：ICDM 2021, Neural Networks。
