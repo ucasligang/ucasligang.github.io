@@ -75,7 +75,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 ### 会议论文
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
-[[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh)
+[[pdf]](https://openreview.net/forum?id=S3d9SwhRKh)
 <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Conference on Machine Learning </i> (**ICML**), 2023. <b>CCF-A</b>.
@@ -98,7 +98,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Pacific Rim International Conference on Artificial Intelligence</i> (**PRICAI**), 2021. CCF-C.
 
 * Automated Spectral Kernel Learning. 
-[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/5892/5748)
+[[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/5892)
 [[poster]](https://lijian.ac.cn/files/2020_AAAI_ASKL/2020_AAAI_AKSL_poster.pdf)
 [[code]](https://github.com/superlj666/Automated-Spectral-Kernel-Learning) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
