@@ -81,13 +81,13 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2023. <b>CCF-A</b>.
 
 * Ridgeless Regression with Random Features.
-[[pdf]](https://arxiv.org/pdf/2205.00477.pdf)
+[[pdf]](https://www.ijcai.org/proceedings/2022/0445.pdf)
 [[code]](https://github.com/superlj666/Ridgeless-Regression-with-Random-Features) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Yingying Zhang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2022. <b>CCF-A</b>.
 
 * Federated learning for non-iid data: From theory to algorithm. 
-[[pdf]](https://lijian.ac.cn/files/2021/FL_for_noniid_data.pdf)
+[[pdf]](https://link.springer.com/chapter/10.1007/978-3-030-89188-6_3)
 [[presentation]](https://lijian.ac.cn/files/2021/FL_for_noniid_data_presentation.pdf)
 [[🏆<b>Best student paper award</b>]](https://lijian.ac.cn/files/2021/PRICAI-2021-best-student-paper.png) <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
