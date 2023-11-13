@@ -10,14 +10,14 @@ author_profile: true
 
 **邮箱：lijian9026 [at] iie.ac.cn, superlj666 [at] gmail.com**
 
-# 研究方向
+## 研究方向
 本人致力于为大语言模型和其他机器学习方法提供理论保证和设计高效算法，以缩小理论与算法之间的差距。我的研究兴趣包括但不限于：
 * **大模型和深度学习理论**：研究大语言模型的独特能力（如涌现、顿悟等），以及深度学习中良性过拟合、随着模型参数容量上升测试误差双下降现象的理论研究。
 * **高效大模型算法**：高效Transformer、大语言模型压缩方法和参数高效微调（PEFT）。
 * **大规模机器学习方法**：为大规模机器学习方法提供理论保证，并基于理论结果改进算法，包括联邦学习、分布式学习、随机特征、Nyström方法、草图方法等。
 
 
-# 个人履历
+## 个人履历
 
 | 时间                | 岗位职级                            | 工作学习单位           | 专业方向                        |
 |:------------------- | :----------------------------- |:---------------------- |:-------------------------- |
@@ -26,16 +26,19 @@ author_profile: true
 | 2015.09 - 2020.06  | 硕博连读研究生                   | 中国科学院信息工程研究所 | 大规模模型选择，半监督学习    |
 | 2011.09 - 2015.06  | 本科生                           | 东北大学               | 软件工程（英语国际班）        |
 
-# 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
+<br>
+
+## 部分论文 [[完整列表](https://lijian.ac.cn/publications/)] [[谷歌学术](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* 通讯作者</i>
-## 预印论文
+
+### 预印论文
 
 * A Survey on Model Compression for Large Language Models.
 [[pdf]](https://arxiv.org/abs/2308.07633) <br>
 Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Can Ma, Weiping Wang.  <br>
 <i> arXiv:2308.07633</i>. 
 
-## 期刊论文
+### 期刊论文
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 
 [[pdf]](https://jmlr.org/papers/volume24/21-1049/21-1049.pdf)
@@ -71,7 +74,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B</b>.
 
-## 会议论文
+### 会议论文
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/pdf?id=S3d9SwhRKh)
@@ -113,7 +116,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A</b>.
 
 
-# 主持项目
+## 主持项目
 
 * 中国博士后科学基金特别资助项目 (No. 2023T160680)，2023.07 - 2024.03，18万元。 <br>
 面向结构化预测的深度可微高斯过程方法研究。
@@ -127,19 +130,15 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * 中国科学院特别研究助理资助，2020.09 - 2022.09，80万元。 <br>
 大规模小样本自动化机器学习。
 
-* 中国科学院信息工程研究所优才计划A类，2023.11 - 2026.11，预聘（正高级）研究员。
+## 发明专利
 
-* 中国科学院信息工程研究所优才计划B类，2020.09 - 2023.11，预聘（正高级）研究员。
-
-# 发明专利
-
-## 专利申请
+### 专利申请
 
 * 李健，刘勇，王流斌，杨毅果，王巨宏. 神经网络结构搜索方法、装置、计算机设备和存储介质：中国. 专利申请号：202011567991.3. 2020年12月25日.
 * 李健，李骄扬，韦博舰，刘勇，王伟平. 一种基于注意力机制的联邦学习方法及系统：中国. 申请号：202311073645.3. 2023年8月24日.
 * 李健，李骄扬，林政，刘勇，王伟平. 一种基于知识蒸馏和提示工程的垂域大模型方法及系统：中国. 申请号：202311073641.5. 2023年8月24日.
 
-## 专利授权
+### 专利授权
 
 * 林海伦, 刘勇, 李健, 王伟平. 一种融合表示学习和分治策略的大规模本体合并方法：中国. 授权号：CN110059194A. 2022年4月8日.
 
@@ -152,7 +151,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
   - 韦博舰（2019-2022）🎓，联邦学习。发表论文：PRICAI 2021 (**最佳学生论文奖**)、ECML-PKDD 2022、TNNLS、IJCNN 2023。毕业去向：中国银行总行管培生。
   - 张旭宁（2023-至今），联邦学习。**武汉大学优秀学士论文奖**。
 
-# 荣誉称号
+## 荣誉称号
 * PRICAI 2021 最佳学生论文奖。
 * 2020年北京市优秀毕业生。
 * 2020年中国科学院大学（国科大）优秀毕业生。
@@ -162,7 +161,7 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * 2018年博士研究生国家奖学金。
 * 2018年中科院信工所所长优秀奖。
 
-# 学术服务
+## 学术服务
 - 程序委员或审稿人
   - 会议：ICML、NeurIPS、ICLR、AAAI、IJCAI、ECAI
   - 期刊：TPAMI、JMLR、Pattern Recognition
