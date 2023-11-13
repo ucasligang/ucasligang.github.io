@@ -16,7 +16,7 @@ To address the limited theoretical interpretability of large-scale machine learn
 * **Efficient LLMs**: efficient Transformers, compressed LLMs, and parameter-efficient fine-tuning (PEFT).
 * **Large-scale Machine Learning**: statistical guarantees and improved algorithms for large-scale machine learning methods, including federated learning, distributed learning, random features, Nyström methods, sketching, etc.
 
-## Curriculum Vitae
+## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023.pdf))
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
