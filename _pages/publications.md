@@ -124,7 +124,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>International Joint Conference on Artificial Intelligence</i> (**IJCAI**), 2019. <b>CCF-A conference</b>.
 
 * Approximate Manifold Regularization: Scalable Algorithm and Generalization Analysis. 
-[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
+g[[pdf]](https://www.ijcai.org/proceedings/2019/0400.pdf)
 [[poster]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_poster.pdf)
 [[slides]](https://lijian.ac.cn/files/2019_IJCAI_LapRLS/2019_LapRLS_Nyström_PCG_slides.pdf)
 [[code]](https://github.com/superlj666/Approximate-Manifold-Regularization-Scalable-Algorithm-and-Generalization-Analysis) <br>

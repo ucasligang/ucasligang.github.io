@@ -16,7 +16,15 @@ My research interests include, but are not limited to:
 * **LLMs and Deep Learning Theory**: theoretical studies on the unique capabilities of large language models (such as emergent abilities and grokking), as well as benign overfitting or the double descent phenomenon in deep learning.
 * **Efficient LLMs**: efficient Transformers, compressed LLMs, and parameter-efficient fine-tuning (PEFT).
 * **Large-scale Machine Learning**: statistical guarantees and improved algorithms for large-scale machine learning methods, including federated learning, distributed learning, random features, Nyström methods, sketching, etc.
-  
+
+# Curriculum Vitae
+
+| Time               | Title                                                       | Institution                               | Research Direction                                    |
+|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
+| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
+| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
+| 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
+| 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
 # Selected Papers [[Full List](https://lijian.ac.cn/publications/)] [[Google Scholar](https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate)] 
 <i>* corresponding author</i>
@@ -130,14 +138,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 * Hailun Lin, Yong Liu, Jian Li, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Patent number: CN110059194A. April 8, 2022.
 
-# Curriculum Vitae
-
-| Time               | Title                                                       | Institution                               | Research Direction                                    |
-|:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
-| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
-| 2015.09 - 2020.07  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
-| 2011.09 - 2020.07  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
 # Students
 - Ph.D. students
