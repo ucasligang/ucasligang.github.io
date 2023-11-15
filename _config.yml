@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jian Li"
 title_separator          : "-"
 name                     : &name "Jian Li"
-description              : &description "Associate Senior Researcher at Institute of Information Engineering, CAS"
+description              : &description "Associate Professor at Institute of Information Engineering, CAS"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "superlj666/superlj666.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Jian Li (李健)"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "Associate Senior Researcher at Institute of Information Engineering, CAS"
+  bio              : "Associate Professor at Institute of Information Engineering, CAS"
   location         : "Beijing, China"
   # employer         : "IIE, CAS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

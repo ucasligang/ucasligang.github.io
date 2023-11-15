@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Senior Researcher (Tenure-track Senior Researcher) and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
+I am an Associate Professor and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
 In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 To address the limited theoretical interpretability of large-scale machine learning algorithms, my focus lies in researching the foundational theoretical guarantees of large language models and other large-scale machine learning algorithms. I aim to enhance algorithms guided by theoretical findings, thereby reducing the gap between foundational theory and practical implementation. My research interests encompass but are not limited to:
@@ -16,12 +16,12 @@ To address the limited theoretical interpretability of large-scale machine learn
 * **Efficient LLMs**: efficient Transformers, compressed LLMs, and parameter-efficient fine-tuning (PEFT).
 * **Large-scale Machine Learning**: statistical guarantees and improved algorithms for large-scale machine learning methods, including federated learning, distributed learning, random features, Nyström methods, sketching, etc.
 
-## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023.pdf))
+## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023_en.pdf))
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2023.11 - present  | Associate Senior Researcher, Tenure-track Senior Researcher | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
-| 2020.09 - 2023.11  | Postdoctoral Researcher, Tenure-track Senior Researcher     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
+| 2023.11 - present  | Associate Professor | Institute of Information Engineering, CAS | LLMs, Large-scale Statistical Machine Learning  |
+| 2020.09 - 2023.11  | Tenure-track Professor     | Institute of Information Engineering, CAS | Large-scale Statistical Machine Learning              |
 | 2015.09 - 2020.06  | Ph.D. Candidate                                             | Institute of Information Engineering, CAS | Large-scale Model Selection, Semi-supervised Learning |
 | 2011.09 - 2015.06  | Bachelor Candidate                                          | Northeastern University                   | Software Engineering (International class)            |
 
@@ -127,26 +127,27 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 ### Pending
 
-* Jian Li, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium: CN. Application number：202011567991.3. December 25, 2020.
-* Jian Li, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism: CN. Application number: 202311073645.3. August 24, 2023
-* Jian Li, Jiaoyang Li, Zheng Lin, Yong Liu, Weiping Wang. A Vertical Domain Large Model Method and System Based on Knowledge Distillation and Prompt Engineering: CN. Application number: 202311073641.5. August 24, 2023.
+* <u><b>Jian Li</b></u>, Yong Liu, Liubin Wang, Yiguo Yang, Juhong Wang.Neural Network Architecture Search Method, Device, Computer Equipment, and Storage Medium. CN：202011567991.3. App. Date: December 25, 2020.
+* <u><b>Jian Li</b></u>, Jiaoyang Li, Bojian Wei, Yong Liu, Weiping Wang. A Federated Learning Method and System Based on Attention Mechanism. CN: 202311073645.3. App. Date: August 24, 2023
+* <u><b>Jian Li</b></u>, Jiaoyang Li, Zheng Lin, Yong Liu, Weiping Wang. A Vertical Domain Large Model Method and System Based on Knowledge Distillation and Prompt Engineering. CN: 202311073641.5. App. Date: August 24, 2023.
 
 ### Granted
 
-* Hailun Lin, Yong Liu, Jian Li, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Patent number: CN110059194A. April 8, 2022.
+* Hailun Lin, Yong Liu, <u><b>Jian Li</b></u>, Weiping Wang. A Large-Scale Ontology Merging Method that Integrates Representation Learning and Divide-and-Conquer Strategy: China. Granted No.CN110059194A. Granted Date: April 8, 2022.
 
 
 ## Students
 - Ph.D. students
-  - 🎓Yilin Kang (2018-2023), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
-  - Xunyu Zhu (2020-present), Neural Architecture Search. Papers: ICDM 2021.
-  - Boxuan Che (2020-present), Efficient Graph Neural Networks.
+  - 🎓Yilin Kang (2020.09 - 2023.06 ), Differential Privacy. Papers: Computers & Security, CIKM 2022, ICCS 2023. Post-graduation: Researcher in Purple Mountain Laboratories.
+  - Xunyu Zhu (2020.09 - present), Neural Architecture Search. Papers: ICDM 2021.
+  - Boxuan Che (2022.09 - present), Efficient Graph Neural Networks.
 - Master's students
-  - 🎓Bojian Wei (2019-2022), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
-  - Xuning Zhang (2023-present), Federated Learning. **Excellent Bachelor's Thesis in Wuhan University**.
+  - 🎓Bojian Wei (2020.09 - 2022.06), Federated Learning on Heterogenous Data. Papers: PRICAI 2021 (**best student paper award**), ECML-PKDD 2022, TNNLS, IJCNN 2023. Post-graduation: Management Trainee in Bank of China Head Office.
+  - Xuning Zhang (2022.09 - present), Federated Learning. **Excellent Bachelor's Thesis in Wuhan University in 2023**.
 
 ## Honors and Awards
-* PRICAI 2021 best student paper award.
+* PRICAI 2021 best student paper award, 2021.
+* Outstanding Graduate of Institute of Information Engineering, CAS, 2021.
 * Outstanding Graduates of Beijing, 2020.
 * Outstanding Graduates of University of Chinese Academy of Sciences (UCAS), 2020.
 * Outstanding Graduates of Institute of Information Engineering, CAS, 2020.
@@ -157,6 +158,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * IIE Presidential Scholarship, 2018.
 
 ## Academic Service
-- Program committee/reviewer:
-  - Conferences: ICML, NeurIPS, ICLR, AAAI, IJCAI, ECAI
-  - Journals: IEEE TPAMI, JMLR, Pattern Recognition
+* Mathematics Guest Editor
+* Program committee of Conference: ICML, NeurIPS, ICLR, AAAI, IJCAI, ECAI, etc.
+* Reviewers of Journals: TPAMI, JMLR, Pattern Recognition, etc.

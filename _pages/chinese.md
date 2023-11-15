@@ -142,15 +142,16 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 
 ## 指导学生
 - 博士研究生
-  - 康艺霖（2018-2023）🎓，差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室。
-  - 朱勋宇（2020-至今），神经网络结构搜索。发表论文：ICDM 2021, Neural Networks。
-  - 车博轩（2020-至今），高效图神经网络。
+  - 康艺霖（2020.09 - 2023.06）🎓，差分隐私。 发表论文：Computers & Security、CIKM 2022、ICCS 2023。毕业去向：紫金山实验室。
+  - 朱勋宇（2020.09 - 至今），神经网络结构搜索。发表论文：ICDM 2021, Neural Networks。
+  - 车博轩（2022.09 - 至今），高效图神经网络。
 - 硕士研究生
-  - 韦博舰（2019-2022）🎓，联邦学习。发表论文：PRICAI 2021 (**最佳学生论文奖**)、ECML-PKDD 2022、TNNLS、IJCNN 2023。毕业去向：中国银行总行管培生。
-  - 张旭宁（2023-至今），联邦学习。**武汉大学优秀学士论文奖**。
+  - 韦博舰（2020.09 - 2022.06）🎓，联邦学习。发表论文：PRICAI 2021 (**最佳学生论文奖**)、ECML-PKDD 2022、TNNLS、IJCNN 2023。毕业去向：中国银行总行管培生。
+  - 张旭宁（2022.09 - 至今），联邦学习。**2023年武汉大学优秀学士论文奖**。
 
 ## 荣誉称号
 * PRICAI 2021 最佳学生论文奖。
+* 2021年中国科学院信息工程研究所优秀毕业生。
 * 2020年北京市优秀毕业生。
 * 2020年中国科学院大学（国科大）优秀毕业生。
 * 2019年博士研究生国家奖学金。
@@ -160,6 +161,6 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * 2018年中科院信工所所长优秀奖。
 
 ## 学术服务
-- 程序委员或审稿人
-  - 会议：ICML、NeurIPS、ICLR、AAAI、IJCAI、ECAI
-  - 期刊：TPAMI、JMLR、Pattern Recognition
+* Mathematics 客座编辑
+* 会议程序委员：ICML、NeurIPS、ICLR、AAAI、IJCAI、ECAI
+* 期刊审稿人：TPAMI、JMLR、Pattern Recognition
