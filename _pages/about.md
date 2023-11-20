@@ -122,6 +122,10 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 * Special Research Assistant Project of CAS, 2020.09 - 2022.09, &yen;800,000. <br>
 <i> Large-scale Few-shot Automated Machine Learning</i>.
 
+* Talent Program Class A of Institute of Information Engineering, CAS, Tenure-track Professor, 2023.11 - 2026.09.
+
+* Talent Program Class B of Institute of Information Engineering, CAS, Tenure-track Young Professor, 2020.09 - 2023.11.
+
 
 ## Patents
 
