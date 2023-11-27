@@ -114,14 +114,14 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang. <br>
 <i>Advances in Neural Information Processing Systems 31</i> (**NeurIPS**), 2018. <b>CCF-A</b>.
 
 ##  Projects
-* China Postdoctoral Science Foundation (No. 2023T160680), 2023.07 - 2024.03, &yen;180,000. <br>
-<i>Research on Deep Differentiable Gaussian Processes for Structured Prediction</i>.
-
 * National Key R&D Program of China (2022YFB3105302.2), 2022.12 - 2025.11, &yen;1,200,000. <br>
 <i> Aggregation and Collaborative Techniques for Cross-platforms Heterogenous Data</i>.
 
-* National Natural Science Foundation of China (No. 62106257), 202201 - 2024.12, &yen;300,000. <br>
+* National Natural Science Foundation of China (No. 62106257), 2022.01 - 2024.12, &yen;300,000. <br>
 <i> Large Scale Structured Prediction with Automated Spectral Kernel Learning</i>.
+
+* China Postdoctoral Science Foundation (**Special Support**, No. 2023T160680), 2023.07 - 2024.03, &yen;180,000. <br>
+<i>Research on Deep Differentiable Gaussian Processes for Structured Prediction</i>.
 
 * Special Research Assistant Project of CAS, 2020.09 - 2022.09, &yen;800,000. <br>
 <i> Large-scale Few-shot Automated Machine Learning</i>.
