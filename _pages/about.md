@@ -11,10 +11,14 @@ redirect_from:
 I am an Associate Professor and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
 In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
-To address the limited theoretical interpretability of large-scale machine learning algorithms, my focus lies in researching the foundational theoretical guarantees of large language models and other large-scale machine learning algorithms. I aim to enhance algorithms guided by theoretical findings, thereby reducing the gap between foundational theory and practical implementation. My research interests encompass but are not limited to:
-* **LLMs and Deep Learning Theory**: theoretical studies on the unique capabilities of large language models (such as emergent abilities and grokking), as well as benign overfitting or the double descent phenomenon in deep learning.
-* **Efficient LLMs**: efficient Transformers, compressed LLMs, and parameter-efficient fine-tuning (PEFT).
-* **Large-scale Machine Learning**: statistical guarantees and improved algorithms for large-scale machine learning methods, including federated learning, distributed learning, random features, Nyström methods, sketching, etc.
+
+In response to the challenges faced by large language models, such as high computational resource demands and weak foundational theories, my research is dedicated to exploring the underlying principles of large language models. The goal is to design efficient and interpretable lightweight language models, thereby narrowing the gap between foundational theory and practical algorithms. Specific research interests include, but are not limited to:
+
+**Lightweight Language Models**: Investigating the underlying principles of scaling guidelines for large language models to guide the design of the next generation of efficient and deployable lightweight language models. This involves technologies such as model architecture design, model compression, and high-quality instruction fine-tuning.
+
+**Large Models and Deep Learning Theory**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
+
+**Large-Scale Machine Learning Methods and Theory**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
 
 ## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023_en.pdf))
 
