@@ -16,7 +16,7 @@ In response to the challenges faced by large language models, such as high compu
 
 **Lightweight Language Models**: Investigating the underlying principles of scaling guidelines for large language models to guide the design of the next generation of efficient and deployable lightweight language models. This involves technologies such as model architecture design, model compression, and high-quality instruction fine-tuning.
 
-**Large Models and Deep Learning Theory**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
+**LLMs and Deep Learning Theories**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
 
 **Large-Scale Machine Learning Methods and Theory**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
 
