@@ -3,6 +3,16 @@ title: "Publications ([Google Scholar Profile](https://scholar.google.com/citati
 permalink: /publications/
 author_profile: true
 ---
+## 2024
+
+* High-dimensional analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
+
+* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
+
 ## 2023
 
 * Optimal Convergence Rates for Distributed Nyström Approximation. 

@@ -18,7 +18,7 @@ In response to the challenges faced by large language models, such as high compu
 
 **LLMs and Deep Learning Theories**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
 
-**Large-Scale Machine Learning Methods and Theory**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
+**Generalization Theories of Large-Scale Machine Learning Methods**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
 
 ## Curriculum Vitae ([CV](https://lijian.ac.cn/files/cv/cv_lijian_2023_en.pdf))
 
@@ -74,6 +74,14 @@ Bojian Wei, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 <i>IEEE Transactions on Neural Networks and Learning Systems</i> (**TNNLS**), 2022. <b>CCF-B</b>.
 
 ### Conference Papers
+
+* High-dimensional analysis for Generalized Nonlinear Regression: From Asymptotics to Algorithm. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
+
+* FedNS: A Fast Sketching Newton-type Algorithm for Federated Learning. <br>
+<u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
+<i>To appear in AAAI Conference on Artificial Intelligence </i> (**AAAI**), 2024. <b>CCF-A conference</b>.
 
 * Optimal Convergence Rates for Agnostic Nyström Kernel Learning.
 [[pdf]](https://openreview.net/forum?id=S3d9SwhRKh) <br>
