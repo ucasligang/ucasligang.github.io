@@ -68,7 +68,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[Paper]](https://doi.org/10.1016/j.artint.2022.103803)
 [[Code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AIJ**), 2022. <b>CCF-A</b>.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A</b>.
 
 * Non-IID Federated Learning with Sharper Risk Bound.
 [[pdf]](https://doi.org/10.1109/TNNLS.2022.3213187) <br>

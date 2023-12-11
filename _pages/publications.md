@@ -71,7 +71,7 @@ Xunyu Zhu, <u><b>Jian Li*</b></u>, Yong Liu, Weiping Wang.  <br>
 [[pdf]](https://doi.org/10.1016/j.artint.2022.103803)
 [[code]](https://github.com/superlj666/CSKN/) <br>
 <u><b>Jian Li</b></u>, Yong Liu, Weiping Wang. <br>
-<i>Artificial Intelligence</i> (**AIJ**), 2022. <b>CCF-A journal</b>.
+<i>Artificial Intelligence</i> (**AI**), 2022. <b>CCF-A journal</b>.
 
 * Ridgeless Regression with Random Features.
 [[pdf]](https://www.ijcai.org/proceedings/2022/0445.pdf)
