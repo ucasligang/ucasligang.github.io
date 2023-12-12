@@ -63,6 +63,3 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 * National Encouragement Scholarship, 2018.
 * National Scholarship for undergraduate students, 2017.
 
-## Academic Service
-* Program committee of Conference: ICML, NeurIPS, ICLR, AAAI, IJCAI, ICME, etc.
-* Reviewers of Journals: TPAMI, JMLR, Pattern Recognition, etc.
