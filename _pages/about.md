@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Gang Li"
-excerpt: "Gang Li"
+excerpt: 
 author_profile: true
 redirect_from: 
   - /about/
