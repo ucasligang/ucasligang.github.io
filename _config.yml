@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Gang Li"
 title_separator          : "-"
-name                     : &name "Gang Li"
+name                     : &name "Resume"
 description              : &description "Ph.D. candidate at Institute of Software, Chinese Academy of Sciences"
 url                      : https://ucasligang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
