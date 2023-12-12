@@ -1,1 +1,1 @@
-[Welcome to my homepage!](https://lijian.ac.cn/)
+[Welcome to my homepage!](https://ucasligang.github.io/)
