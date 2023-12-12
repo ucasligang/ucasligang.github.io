@@ -9,15 +9,13 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences (CAS), working on Self-supervised Learning and Diffusion Models.
-In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities, please feel free to contact me.
+In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities, please feel free to contact me at ligang[at]gmail[dot]com. 
 
-In response to the challenges faced by large language models, such as high computational resource demands and weak foundational theories, my research is dedicated to exploring the underlying principles of large language models. The goal is to design efficient and interpretable lightweight language models, thereby narrowing the gap between foundational theory and practical algorithms. Specific research interests include, but are not limited to:
+My current research interests center on AIGC (Artificial Intelligence Generated Content). Specific research interests include, but are not limited to:
 
-**Lightweight Language Models**: Investigating the underlying principles of scaling guidelines for large language models to guide the design of the next generation of efficient and deployable lightweight language models. This involves technologies such as model architecture design, model compression, and high-quality instruction fine-tuning.
+**Controllable generative diffusion models**.
 
-**LLMs and Deep Learning Theories**: Delving into the unique phenomena of large language models, such as scaling guidelines, contextual learning abilities, complex reasoning capabilities, and the underlying principles of benign overfitting and the double descent phenomenon in deep learning.
-
-**Generalization Theories of Large-Scale Machine Learning Methods**: Researching the generalization theory of large-scale machine learning methods and using the results from generalization theory to enhance large-scale algorithms. This includes studying various methods like federated learning, distributed learning, random features, Nyström methods, sketching methods, and more.
+**Efficient training and sampling of generative diffusion models**.
 
 ## Curriculum Vitae 
 
