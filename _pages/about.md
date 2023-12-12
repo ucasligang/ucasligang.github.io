@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences (CAS), working on Self-supervised Learning and Diffusion Models.
-In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences.  
+In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities, please feel free to contact me.
 
 In response to the challenges faced by large language models, such as high computational resource demands and weak foundational theories, my research is dedicated to exploring the underlying principles of large language models. The goal is to design efficient and interpretable lightweight language models, thereby narrowing the gap between foundational theory and practical algorithms. Specific research interests include, but are not limited to:
 
