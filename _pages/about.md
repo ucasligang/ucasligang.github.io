@@ -17,7 +17,7 @@ My current research interests center on AIGC (Artificial Intelligence Generated 
 
 **Efficient training and sampling of generative diffusion models**.
 
-Before this, I focused on the directions of Masking Image Modeling and Vision Transformer. By the way, we have compiled a repository on GitHub featuring a highly popular (300+ stars) paper list on Masked Image Modeling (MIM).  The link is available at [Google](https://github.com/ucasligang/awesome-MIM).
+Before this, I focused on the directions of Masking Image Modeling and Vision Transformer. By the way, we have compiled a repository on GitHub featuring a highly popular (300+ stars) paper list on Masked Image Modeling (MIM).  The link is available at [awesome-MIM](https://github.com/ucasligang/awesome-MIM).
 
 ## Curriculum Vitae 
 
