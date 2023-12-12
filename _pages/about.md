@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor and Master's supervisor at the Institute of Information Engineering, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
+I am a PHD candidate at the Institute of Software, Chinese Academy of Sciences (CAS), working on large-scale statistical learning theory and large language models (LLMs).
 In July 2020, I obtained my Ph.D. degree from Institute of Information Engineering, CAS, advised by Associate Prof. [Yong Liu](https://liuyonggsai.github.io/) and Prof. Weiping Wang. 
 
 
