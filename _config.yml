@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Jian Li"
+title                    : "Gang Li"
 title_separator          : "-"
-name                     : &name "Jian Li"
-description              : &description "Associate Professor at Institute of Information Engineering, CAS"
+name                     : &name "Gang Li"
+description              : &description "Ph.D. candidate at Institute of Software, Chinese Academy of Sciences"
 url                      : https://superlj666.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "superlj666/superlj666.github.io"
@@ -80,30 +80,30 @@ analytics:
 
 # Site Author
 author:
-  name             : "Jian Li (李健)"
+  name             : "Gang Li (李港)"
   avatar           : "avatar.png" # "jianli.jpg" #
-  bio              : "Associate Professor at Institute of Information Engineering, CAS"
+  bio              : "Ph.D. candidate at Institute of Software, Chinese Academy of Sciences"
   location         : "Beijing, China"
   # employer         : "IIE, CAS"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?hl=en-us&user=IAJpTqYAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "me@lijian.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en"
+  email            : "ucasligang a.t. gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "https://people.ucas.ac.cn/~iielijian"
+  uri              : "https://ucasligang.github.io/"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           : "superlj666"
+  github           : "https://github.com/ucasligang"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/0000-0003-4977-1802"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
