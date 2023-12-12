@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences (CAS), working on Self-supervised Learning and Diffusion Models.
-In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities, please feel free to contact me at ligang[at]gmail[dot]com. 
+In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities, please feel free to contact me at ucasligang[at]gmail[dot]com. 
 
 My current research interests center on AIGC (Artificial Intelligence Generated Content). Specific research interests include, but are not limited to:
 
