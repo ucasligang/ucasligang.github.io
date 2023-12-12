@@ -17,6 +17,8 @@ My current research interests center on AIGC (Artificial Intelligence Generated 
 
 **Efficient training and sampling of generative diffusion models**.
 
+Before this, I focused on the directions of Masking Image Modeling and Vision Transformer. By the way, we have compiled a repository on GitHub featuring a highly popular (300+ stars) paper list on Masked Image Modeling (MIM).  The link is available at [Google](https://github.com/ucasligang/awesome-MIM).
+
 ## Curriculum Vitae 
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
@@ -24,19 +26,19 @@ My current research interests center on AIGC (Artificial Intelligence Generated 
 | 2019.09 - Now  | Ph.D. Candidate                                             | Institute of Software, CAS | Self-supervised Learning、Diffusion Models |
 | 2015.09 - 2019.06  | Bachelor Candidate                                          | HeNan University                   | Network Engineering            |
 
-## Selected Papers [[Google Scholar]](https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)
-## Preprint
+## Selected Papers [[Full paper list of Google Scholar]](https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)
+### Preprint
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
-[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) <br> [[Project page]](https://cartoondiff.github.io/) <br> [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
+[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
 Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
 <i> arXiv:2309.08251</i>.
 
 * 3ddesigner: Towards photorealistic 3d object generation and editing with text-guided diffusion models.
-[[pdf]](https://arxiv.org/pdf/2211.14108) <br>  [[Project page]](https://3ddesigner-diffusion.github.io/) <br> 
+[[pdf]](https://arxiv.org/pdf/2211.14108) [[Project page]](https://3ddesigner-diffusion.github.io/) <br> 
 <u><b>Gang Li</b></u>, Heliang Zheng, Chaoyue Wang, Chang Li, Changwen Zheng, Dacheng Tao.  <br>
 <i> arXiv:2211.14108</i>.
 
-## Publication
+### Publication
 
 * Semmae: Semantic-guided masking for learning masked autoencoders.
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c186016d0844767209dc36e9e61441b-Paper-Conference.pdf)
@@ -45,7 +47,7 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 <i>Neural Information Processing Systems</i> (**NeurIPS**), 2022. <b>CCF-A conference</b>.
 
 * Simvit: Exploring a simple vision transformer with sliding windows
-[[pdf]](https://arxiv.org/pdf/2112.13085.pdf) <br> [[code]](https://github.com/ucasligang/SimViT) <br>
+[[pdf]](https://arxiv.org/pdf/2112.13085.pdf) [[code]](https://github.com/ucasligang/SimViT) <br>
 <u><b>Gang Li</b></u>, Di Xu, Xing Cheng, Lingyu Si, Changwen Zheng. <br>
 <i>IEEE International Conference on Multimedia and Expo</i> (**ICME**), 2022. <b>CCF-B </b>.
 
