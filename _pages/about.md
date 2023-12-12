@@ -27,12 +27,12 @@ My current research interests center on AIGC (Artificial Intelligence Generated 
 ## Selected Papers [[Google Scholar]](https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)
 ## Preprint
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
-[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) <br>
+[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) <br> [[Project page]](https://cartoondiff.github.io/) <br> [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
 Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
 <i> arXiv:2309.08251</i>.
 
 * 3ddesigner: Towards photorealistic 3d object generation and editing with text-guided diffusion models.
-[[pdf]](https://arxiv.org/pdf/2211.14108) <br>
+[[pdf]](https://arxiv.org/pdf/2211.14108) <br>  [[Project page]](https://3ddesigner-diffusion.github.io/) <br> 
 <u><b>Gang Li</b></u>, Heliang Zheng, Chaoyue Wang, Chang Li, Changwen Zheng, Dacheng Tao.  <br>
 <i> arXiv:2211.14108</i>.
 
@@ -45,7 +45,7 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 <i>Neural Information Processing Systems</i> (**NeurIPS**), 2022. <b>CCF-A conference</b>.
 
 * Simvit: Exploring a simple vision transformer with sliding windows
-[[pdf]](https://arxiv.org/pdf/2112.13085.pdf) <br>
+[[pdf]](https://arxiv.org/pdf/2112.13085.pdf) <br> [[code]](https://github.com/ucasligang/SimViT) <br>
 <u><b>Gang Li</b></u>, Di Xu, Xing Cheng, Lingyu Si, Changwen Zheng. <br>
 <i>IEEE International Conference on Multimedia and Expo</i> (**ICME**), 2022. <b>CCF-B </b>.
 
