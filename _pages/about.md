@@ -23,10 +23,10 @@ In response to the challenges faced by large language models, such as high compu
 
 | Time               | Title                                                       | Institution                               | Research Direction                                    |
 |:-------------------| :---------------------------------------------------------- | :---------------------------------------- | :---------------------------------------------------- |
-| 2019.09 - now  | Ph.D. Candidate                                             | Institute of Software, CAS | Self-supervised Learning、Diffusion Models |
+| 2019.09 - Now  | Ph.D. Candidate                                             | Institute of Software, CAS | Self-supervised Learning、Diffusion Models |
 | 2015.09 - 2019.06  | Bachelor Candidate                                          | HeNan University                   | Network Engineering            |
 
-## Selected Papers [Google Scholar](https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)] 
+## Selected Papers [Google Scholar][(https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)] 
 
 ## Preprint
 
