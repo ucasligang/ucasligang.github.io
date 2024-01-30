@@ -4,6 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
+
+## 2024
+
+* FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models
+[[pdf]](https://arxiv.org/pdf/2401.15636.pdf) [[Project page]](https://freestylefreelunch.github.io/) <br>
+Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.  <br>
+<i> arXiv:2401.15636</i>.
+
 ## 2023
 
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
