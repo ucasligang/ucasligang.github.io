@@ -28,6 +28,11 @@ Before this, I focused on the directions of Masking Image Modeling (MIM) and Vis
 
 ## Selected Papers [[Full paper list at Google Scholar]](https://scholar.google.com/citations?user=StWrqHIAAAAJ&hl=en)
 ### Preprint
+* FreeStyle: Free Lunch for Text-guided Style Transfer using Diffusion Models
+[[pdf]](https://arxiv.org/pdf/2401.15636.pdf) [[Project page]](https://freestylefreelunch.github.io/) <br>
+Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.  <br>
+<i> arXiv:2401.15636</i>.
+
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
 [[pdf]](https://arxiv.org/pdf/2309.08251.pdf) [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
 Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
