@@ -50,7 +50,7 @@ Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzha
 
 * DreamBooth++: Boosting Subject-Driven Generation via Region-Level References Packing.
 [[pdf]](https://openreview.net/pdf?id=06c7e989wH)
-<u>Zhongyi Fan, Zixin Yin, <b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
+Zhongyi Fan, Zixin Yin, <u><b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
 <i>Proceedings of the 32nd ACM International Conference on Multimedia</i> (**ACM MM**), 2024. <b>CCF-A </b>.
 
 * Simvit: Exploring a simple vision transformer with sliding windows
