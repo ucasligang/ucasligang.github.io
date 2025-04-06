@@ -17,12 +17,13 @@ Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzha
 Zhongyi Fan, Zixin Yin, <u><b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
 <i>Proceedings of the 32nd ACM International Conference on Multimedia</i> (**ACM MM**), 2024. <b>CCF-A </b>.
 
-## 2023
-
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
-[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) <br>
+[[pdf]](https://arxiv.org/pdf/2309.08251.pdf)
+ [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
 Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
-<i> arXiv:2309.08251</i>.
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (**ICASSP**), 2024. <b>CCF-B</b>.
+
+## 2023
 
 * 3ddesigner: Towards photorealistic 3d object generation and editing with text-guided diffusion models.
 [[pdf]](https://arxiv.org/pdf/2211.14108) <br>
@@ -30,12 +31,6 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 <i> arXiv:2211.14108</i>.
 
 ## 2022
-
-* Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
-[[pdf]](https://arxiv.org/pdf/2309.08251.pdf)
- [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
-Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
-<i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (**ICASSP**), 2024. <b>CCF-B</b>.
 
 * Semmae: Semantic-guided masking for learning masked autoencoders.
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c186016d0844767209dc36e9e61441b-Paper-Conference.pdf)
