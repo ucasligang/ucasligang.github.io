@@ -53,6 +53,11 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 <u><b>Gang Li</b></u>, Heliang Zheng, Daqing Liu, Chaoyue Wang, Bing Su, Changwen Zheng. <br>
 <i>Neural Information Processing Systems</i> (**NeurIPS**), 2022. <b>CCF-A </b>.
 
+* DreamBooth++: Boosting Subject-Driven Generation via Region-Level References Packing.
+[[pdf]](https://openreview.net/pdf?id=06c7e989wH)
+<u>Zhongyi Fan, Zixin Yin, <b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
+<i>Proceedings of the 32nd ACM International Conference on Multimedia</i> (**ACM MM**), 2024. <b>CCF-A </b>.
+
 * Simvit: Exploring a simple vision transformer with sliding windows
 [[pdf]](https://arxiv.org/pdf/2112.13085.pdf) [[code]](https://github.com/ucasligang/SimViT) <br>
 <u><b>Gang Li</b></u>, Di Xu, Xing Cheng, Lingyu Si, Changwen Zheng. <br>
@@ -63,7 +68,11 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 <u><b>Gang Li</b></u>, Changwen Zheng, Bing Su. <br>
 <i>Neurocomputing</i> (****), 2022. <b>CCF-C、SCI </b>.
 
-
+* Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
+[[pdf]](https://arxiv.org/pdf/2309.08251.pdf)
+ [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
+Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (**ICASSP**), 2024. <b>CCF-B</b>.
 
 ## Honors and Awards
 
