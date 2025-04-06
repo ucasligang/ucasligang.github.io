@@ -35,11 +35,6 @@ Before this, I focused on the directions of Masking Image Modeling (MIM) and Vis
 Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.  <br>
 <i> arXiv:2401.15636</i>.
 
-* Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
-[[pdf]](https://arxiv.org/pdf/2309.08251.pdf) [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
-Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
-<i> arXiv:2309.08251</i>.
-
 * 3ddesigner: Towards photorealistic 3d object generation and editing with text-guided diffusion models.
 [[pdf]](https://arxiv.org/pdf/2211.14108) [[Project page]](https://3ddesigner-diffusion.github.io/) <br> 
 <u><b>Gang Li</b></u>, Heliang Zheng, Chaoyue Wang, Chang Li, Changwen Zheng, Dacheng Tao.  <br>
@@ -76,7 +71,8 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 
 ## Honors and Awards
 
-* Merit student of University of Chinese Academy of Sciences (UCAS), 2023.
+* First-class academic scholarship of Chinese Academy of Sciences, 2024.
+* Merit student of University of Chinese Academy of Sciences (UCAS), 2023, 2024.
 * Outstanding member of the Communist Youth League of the University of Chinese Academy of Sciences (UCAS), 2020.
 * National Encouragement Scholarship, 2018.
 * National Scholarship for undergraduate students, 2017.
