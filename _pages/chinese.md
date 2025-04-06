@@ -45,7 +45,7 @@ Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzha
 <i>Neural Information Processing Systems</i> (**NeurIPS**), 2022. <b>CCF-A </b>.
 
 * DreamBooth++: Boosting Subject-Driven Generation via Region-Level References Packing.
-[[pdf]](https://openreview.net/pdf?id=06c7e989wH)
+[[pdf]](https://openreview.net/pdf?id=06c7e989wH) <br>
 <u>Zhongyi Fan, Zixin Yin, <b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
 <i>Proceedings of the 32nd ACM International Conference on Multimedia</i> (**ACM MM**), 2024. <b>CCF-A </b>.
 
