@@ -12,6 +12,11 @@ author_profile: true
 Feihong He, <u><b>Gang Li</b></u>, Mengyuan Zhang, Leilei Yan, Lingyu Si, Fanzhang Li.  <br>
 <i> arXiv:2401.15636</i>.
 
+* DreamBooth++: Boosting Subject-Driven Generation via Region-Level References Packing.
+[[pdf]](https://openreview.net/pdf?id=06c7e989wH)
+<u>Zhongyi Fan, Zixin Yin, <b>Gang Li</b></u>, Yibing Zhan, Heliang Zheng. <br>
+<i>Proceedings of the 32nd ACM International Conference on Multimedia</i> (**ACM MM**), 2024. <b>CCF-A </b>.
+
 ## 2023
 
 * Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
@@ -26,6 +31,11 @@ Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei D
 
 ## 2022
 
+* Cartoondiff: Training-free Cartoon Image Generation with Diffusion Transformer Models.
+[[pdf]](https://arxiv.org/pdf/2309.08251.pdf)
+ [[Project page]](https://cartoondiff.github.io/) [[Code]](https://github.com/CartoonDiff/CartoonDiff) <br>
+Feihong He, <u><b>Gang Li</b></u>, Lingyu Si, Leilei Yan, Shimeng Hou, Hongwei Dong, Fanzhang Li.  <br>
+<i>IEEE International Conference on Acoustics, Speech and Signal Processing</i> (**ICASSP**), 2024. <b>CCF-B</b>.
 
 * Semmae: Semantic-guided masking for learning masked autoencoders.
 [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/5c186016d0844767209dc36e9e61441b-Paper-Conference.pdf)
