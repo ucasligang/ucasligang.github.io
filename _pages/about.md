@@ -9,9 +9,11 @@ redirect_from:
 ---
 
 I am currently a Ph.D. candidate at the Institute of Software, Chinese Academy of Sciences (CAS), working on Self-supervised Learning and Diffusion Models.
-In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. If you have any good job opportunities (including postdoctoral research positions, algorithm researchers, algorithm engineers, and other related roles), please feel free to contact me at ucasligang[at]gmail[dot]com. 
+In June 2025, I will obtain my Ph.D. degree from Institute of Software, Chinese Academy of Sciences. I am pleased to announce that I will be joining Honor's MagicOS division as a Senior Computer Vision Algorithm Engineer, working within the Smart Vision Platform team. My primary focus will be on research and development in multimodal understanding and AIGC (AI-Generated Content) technologies. Our team is currently seeking both interns and full-time researchers/engineers. If you're interested in opportunities in these cutting-edge fields, please feel free to share your resume with me at ucasligang[at]gmail[dot]com. 
 
-My current research interests center on AIGC (Artificial Intelligence Generated Content). Specific research interests include, but are not limited to:
+My current research interests center on multimodal understanding and AIGC (Artificial Intelligence Generated Content). Specific research interests include, but are not limited to:
+
+**Large multi-modal models**.
 
 **Controllable generative diffusion models**.
 
